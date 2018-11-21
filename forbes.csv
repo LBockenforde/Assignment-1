@@ -1,0 +1,1579 @@
+﻿rank,name,net_worth,age,source,country
+#1,Carlos Slim Helu & family,$82.1 B,74,telecom,Mexico
+#2,Bill Gates,$80.4 B,58,Microsoft,United States
+#3,Warren Buffett,$67 B,84,Berkshire Hathaway,United States
+#4,Amancio Ortega,$57.5 B,78,retail,Spain
+#5,Larry Ellison,$48.1 B,71,Oracle,United States
+#6,Charles Koch,$41.8 B,78,diversified,United States
+#6,David Koch,$41.8 B,74,diversified,United States
+#8,Christy Walton & family,$38.4 B,59,Wal-Mart,United States
+#9,Jim Walton,$36.9 B,66,Wal-Mart,United States
+#10,Alice Walton,$35.5 B,65,Wal-Mart,United States
+#11,S. Robson Walton,$35.5 B,70,Wal-Mart,United States
+#12,Liliane Bettencourt & family,$34.4 B,91,L'Oreal,France
+#13,Michael Bloomberg,$34.1 B,72,Bloomberg LP,United States
+#14,Mark Zuckerberg,$33.6 B,30,Facebook,United States
+#15,Li Ka-shing,$31.4 B,86,diversified,Hong Kong
+#16,Sheldon Adelson,$31.4 B,81,casinos,United States
+#17,Larry Page,$31.1 B,41,Google,United States
+#18,Stefan Persson,$30.8 B,67,H&M,Sweden
+#19,Sergey Brin,$30.6 B,41,Google,United States
+#20,Jeff Bezos,$29.4 B,50,Amazon.com,United States
+#21,Bernard Arnault & family,$29.3 B,65,LVMH,France
+#22,Carl Icahn,$25.8 B,78,investments,United States
+#23,Michele Ferrero & family,$24.8 B,89,chocolates,Italy
+#24,George Soros,$24 B,84,hedge funds,United States
+#25,David Thomson & family,$23.8 B,57,media,Canada
+#26,Aliko Dangote,$23.7 B,57,"cement, sugar, flour",Nigeria
+#27,Forrest Mars Jr,$22.4 B,83,candy,United States
+#27,Jacqueline Mars,$22.4 B,74,candy,United States
+#29,John Mars,$22.4 B,78,candy,United States
+#30,Lee Shau Kee,$22.3 B,86,diversified,Hong Kong
+#31,Steve Ballmer,$22.1 B,58,Microsoft,United States
+#32,Michael Dell,$21.6 B,49,Dell,United States
+#33,Mukesh Ambani,$21.6 B,57,"petrochemicals, oil & gas",India
+#34,Prince Alwaleed Bin Talal Alsaud,$21.6 B,59,investments,Saudi Arabia
+#35,Jorge Paulo Lemann,$21.2 B,75,beer,Brazil
+#36,Phil Knight,$20.9 B,76,Nike,United States
+#37,Len Blavatnik,$20.4 B,57,diversified,United States
+#38,Jack Ma,$19.7 B,50,e-commerce,China
+#39,Leonardo Del Vecchio,$18.4 B,79,eyeglasses,Italy
+#40,Alisher Usmanov,$18.4 B,61,"steel & mining, telecom, investments",Russia
+#41,Dilip Shanghvi,$17.7 B,59,pharmaceuticals,India
+#42,Paul Allen,$17 B,61,"Microsoft, investments",United States
+#43,Tadashi Yanai & family,$16.8 B,65,retail,Japan
+#44,Theo Albrecht Jr & family,$16.7 B,63,"Aldi, Trader Joe's",Germany
+#45,Azim Premji,$16.6 B,69,software,India
+#46,Charles Ergen,$16.5 B,61,Dish Network,United States
+#47,Masayoshi Son,$16.4 B,57,"internet, telecom",Japan
+#48,Michael Otto & family,$16.4 B,71,"retail, real estate",Germany
+#49,Dieter Schwarz,$16.2 B,75,retail,Germany
+#50,Laurene Powell Jobs & family,$16.1 B,50,"Apple, Disney",United States
+#51,Mikhail Fridman,$16.1 B,50,"oil, banking, telecom",Russia
+#52,Pallonji Mistry,$15.9 B,85,construction,Ireland
+#53,Harold Hamm,$15.9 B,68,oil & gas,United States
+#54,Viktor Vekselberg,$15.7 B,57,"metals, energy",Russia
+#55,Anne Cox Chambers,$15.7 B,94,media,United States
+#56,Luis Carlos Sarmiento,$15.7 B,81,banking,Colombia
+#57,Robin Li,$15.6 B,45,internet search,China
+#58,Joseph Safra,$15.5 B,75,banking,Brazil
+#59,Gina Rinehart,$15.4 B,60,mining,Australia
+#60,Susanne Klatten,$15.3 B,52,"BMW, pharmaceuticals",Germany
+#61,Donald Bren,$15.3 B,82,real estate,United States
+#62,Ray Dalio,$15.2 B,65,hedge funds,United States
+#63,German Larrea Mota Velasco & family,$14.9 B,60,mining,Mexico
+#64,Ma Huateng,$14.7 B,43,internet media,China
+#65,Lakshmi Mittal,$14.6 B,64,steel,India
+#66,Lui Che Woo,$14.5 B,84,casinos,Hong Kong
+#67,Ronald Perelman,$14.4 B,71,leveraged buyouts,United States
+#68,Francois Pinault & family,$14.3 B,78,retail,France
+#69,Thomas & Raymond Kwok & family,$14.2 B,-,real estate,Hong Kong
+#70,Leonid Mikhelson,$14.2 B,59,"gas, chemicals",Russia
+#71,Gennady Timchenko,$13.9 B,61,oil & gas,Russia
+#72,Mohammed Al Amoudi,$13.9 B,68,"oil, diversified",Saudi Arabia
+#73,Serge Dassault & family,$13.8 B,89,aviation,France
+#74,Vladimir Lisin,$13.7 B,58,"steel, transport",Russia
+#75,John Paulson,$13.7 B,58,hedge funds,United States
+#76,Rupert Murdoch & family,$13.6 B,83,media,United States
+#77,Stefan Quandt,$13.6 B,48,BMW,Germany
+#78,Charoen Sirivadhanabhakdi,$13.5 B,70,beverages,Thailand
+#79,Vladimir Potanin,$13.5 B,53,metals,Russia
+#80,Jack Taylor & family,$13.4 B,92,Enterprise Rent-A-Car,United States
+#81,John Fredriksen,$13.3 B,69,shipping,Cyprus
+#82,Cheng Yu-tung,$13.2 B,89,diversified,Hong Kong
+#83,Abigail Johnson,$13 B,52,money management,United States
+#84,Hinduja Brothers,$12.9 B,-,diversified,United Kingdom
+#85,Shiv Nadar,$12.7 B,69,information technology,India
+#86,Alejandro Santo Domingo Davila & family,$12.7 B,37,beer,Colombia
+#87,Iris Fontbona & family,$12.6 B,71,mining,Chile
+#88,Henry Sy & family,$12.6 B,89,diversified,Philippines
+#89,Dhanin Chearavanont & family,$12.6 B,75,food,Thailand
+#90,James Simons,$12.5 B,76,hedge funds,United States
+#91,Vagit Alekperov,$12.5 B,64,Lukoil,Russia
+#92,Rinat Akhmetov,$12.2 B,48,"steel, coal",Ukraine
+#93,Georg Schaeffler,$12.1 B,49,ball bearings,Germany
+#94,Robert & Philip Ng,$12.1 B,-,real estate,Singapore
+#95,Gerald Cavendish Grosvenor & family,$12 B,62,real estate,United Kingdom
+#96,Hans Rausing,$12 B,88,packaging,Sweden
+#97,Patrick Soon-Shiong,$11.9 B,62,pharmaceuticals,United States
+#98,Andrew Beal,$11.8 B,61,"banks, real estate",United States
+#99,Alberto Bailleres Gonzalez & family,$11.7 B,83,mining,Mexico
+#100,Johanna Quandt,$11.7 B,88,BMW,Germany
+#101,Wang Jianlin,$11.6 B,60,real estate,China
+#102,Charlene de Carvalho-Heineken,$11.4 B,60,Heineken,Netherlands
+#103,Lee Kun-Hee,$11.4 B,72,electronics/insurance,South Korea
+#104,Hansjoerg Wyss,$11.3 B,79,medical devices,Switzerland
+#105,Ernesto Bertarelli & family,$11.2 B,49,"biotech, investments",Switzerland
+#106,Marcel Herrmann Telles,$11 B,64,beer,Brazil
+#107,Ananda Krishnan,$11 B,76,telecom,Malaysia
+#108,Robert Kuok,$11 B,91,diversified,Malaysia
+#109,Alexey Mordashov,$11 B,49,"steel, investments",Russia
+#110,Zong Qinghou,$11 B,69,beverages,China
+#111,Richard Kinder,$10.8 B,69,pipelines,United States
+#112,Philip Anschutz,$10.8 B,74,investments,United States
+#113,Sergei Galitsky,$10.6 B,47,retail,Russia
+#114,Wang Wenyin,$10.6 B,46,metals,China
+#115,David & Simon Reuben,$10.6 B,71,"investments, real estate",United Kingdom
+#116,George Kaiser,$10.5 B,72,"oil & gas, banking",United States
+#117,German Khan,$10.3 B,52,"oil, banking, telecom",Russia
+#118,Steve Cohen,$10.3 B,58,hedge funds,United States
+#119,Stephen Schwarzman,$10.2 B,67,investments,United States
+#120,Mikhail Prokhorov,$10.1 B,49,investments,Russia
+#121,David Tepper,$10 B,57,hedge funds,United States
+#122,Carrie Perrodo & family,$9.9 B,63,Inherited,France
+#123,Charles Butt & family,$9.9 B,76,supermarkets,United States
+#124,Kjeld Kirk Kristiansen,$9.7 B,66,Lego,Denmark
+#125,Stefano Pessina,$9.6 B,73,drugstores,Italy
+#126,Carlos Alberto Sicupira,$9.6 B,66,beer,Brazil
+#127,Joseph Lau,$9.5 B,63,real estate,Hong Kong
+#128,Margarita Louis-Dreyfus,$9.5 B,51,commodities,Switzerland
+#129,Klaus-Michael Kuehne,$9.4 B,77,shipping,Germany
+#130,Petr Kellner,$9.4 B,50,"banking, insurance",Czech Republic
+#131,Elon Musk,$9.4 B,43,Tesla Motors,United States
+#132,Andrey Melnichenko,$9.4 B,42,"coal, fertilizers",Russia
+#133,Roman Abramovich,$9.3 B,47,"steel, investments",Russia
+#134,Thomas Peterffy,$9.2 B,70,discount brokerage,United States
+#135,Eric Schmidt,$9.2 B,59,Google,United States
+#136,Galen Weston & family,$9.1 B,73,retail,Canada
+#137,Tsai Eng-Meng,$9 B,57,"food, beverages",Taiwan
+#138,Elaine Marshall & family,$9 B,72,diversified,United States
+#139,Michael Kadoorie & family,$9 B,73,diversified,Hong Kong
+#140,Samuel Newhouse Jr,$8.9 B,86,media,United States
+#141,Dmitry Rybolovlev,$8.8 B,47,fertilizer,Russia
+#142,R. Budi Hartono,$8.8 B,73,"banking, tobacco",Indonesia
+#143,Alain Wertheimer,$8.7 B,66,Chanel,France
+#143,Gerard Wertheimer,$8.7 B,63,Chanel,France
+#145,Kumar Birla,$8.7 B,47,commodities,India
+#146,Miuccia Prada,$8.5 B,65,Prada,Italy
+#147,Michael Hartono,$8.4 B,75,"tobacco, banking",Indonesia
+#148,Patrick Drahi,$8.3 B,50,Telecom,France
+#149,Pierre Omidyar,$8.3 B,47,Ebay,United States
+#150,Tsai family,$8.2 B,85,finance,Taiwan
+#151,John Menard Jr,$8.2 B,74,retail,United States
+#152,Donald Newhouse,$8.2 B,84,media,United States
+#153,Leonard Lauder,$8.2 B,81,Estee Lauder,United States
+#154,Andrei Skoch,$8.2 B,48,steel,Russia
+#155,Hank & Doug Meijer,$8.1 B,-,supermarkets,United States
+#156,Giorgio Armani,$8 B,80,fashion,Italy
+#157,Alexei Kuzmichev,$8 B,51,"oil, banking, telecom",Russia
+#158,Dustin Moskovitz,$8 B,30,Facebook,United States
+#159,Peter Woo & family,$7.9 B,68,real estate,Hong Kong
+#160,Blair Parry-Okeden,$7.7 B,63,media,United States
+#160,Jim Kennedy,$7.7 B,66,media,United States
+#162,Reinhold Wuerth,$7.7 B,79,fasteners,Germany
+#163,Thomas Frist Jr & family,$7.7 B,76,health care,United States
+#164,Antonia Johnson,$7.7 B,71,diversified,Sweden
+#165,Li Hejun,$7.7 B,47,renewable energy,China
+#166,Ralph Lauren,$7.7 B,74,Ralph Lauren,United States
+#167,Hasso Plattner,$7.6 B,70,software,Germany
+#168,Quek Leng Chan,$7.6 B,71,"banking, real estate",Malaysia
+#169,Dietrich Mateschitz,$7.6 B,70,Red Bull,Austria
+#170,Oleg Deripaska,$7.6 B,46,"aluminum, utilities",Russia
+#171,August von Finck,$7.6 B,84,investments,Germany
+#172,He Xiangjian,$7.6 B,72,appliances,China
+#173,James Goodnight,$7.5 B,71,software,United States
+#174,Jan Koum,$7.5 B,38,WhatsApp,United States
+#175,Sunil Mittal & family,$7.4 B,56,telecom,India
+#176,Ricardo Salinas Pliego & family,$7.2 B,58,"retail, media",Mexico
+#177,Eli Broad,$7.2 B,81,investments,United States
+#178,Edward Johnson III,$7.2 B,84,money management,United States
+#179,Liu Qiangdong,$7.2 B,40,e-commerce,China
+#180,Liu Yongxing,$7.1 B,66,agribusiness,China
+#181,Emmanuel Besnier,$7.1 B,44,cheese,France
+#182,Silvio Berlusconi & family,$7.1 B,78,media,Italy
+#183,Leng Beng Kwek & family,$7 B,73,diversified,Singapore
+#184,Chan Laiwa & family,$7 B,73,real estate,China
+#185,Pierre Castel & family,$7 B,87,wine,France
+#186,Eyal Ofer,$6.9 B,64,"real estate, shipping",Israel
+#187,Jim Pattison,$6.9 B,86,diversified,Canada
+#188,Graeme Hart,$6.9 B,59,investments,New Zealand
+#189,Xavier Niel,$6.9 B,47,"internet, telecom",France
+#190,Eva Gonda de Rivera & family,$6.9 B,-,beverages,Mexico
+#191,Randa Williams,$6.8 B,53,pipelines,United States
+#192,Dannine Avara,$6.8 B,50,pipelines,United States
+#192,Milane Frantz,$6.8 B,45,pipelines,United States
+#192,Scott Duncan,$6.8 B,31,pipelines,United States
+#195,Terry Gou,$6.8 B,63,electronics,Taiwan
+#196,Gordon Moore,$6.8 B,85,Intel,United States
+#197,Johann Rupert & family,$6.8 B,64,luxury goods,South Africa
+#198,Augusto & Giorgio Perfetti,$6.7 B,-,candy,Italy
+#199,John Malone,$6.7 B,73,cable television,United States
+#200,Takemitsu Takizaki,$6.7 B,69,sensors,Japan
+#201,Vincent Bollore,$6.7 B,62,investments,France
+#202,Klaus Tschira,$6.6 B,73,software,Germany
+#203,David Geffen,$6.6 B,71,entertainment,United States
+#204,Charles Cadogan & family,$6.6 B,77,real estate,United Kingdom
+#205,David Duffield,$6.6 B,74,business software,United States
+#206,Hiroshi Mikitani,$6.6 B,49,online retailing,Japan
+#207,Nicky Oppenheimer & family,$6.6 B,69,diamonds,South Africa
+#208,Paolo & Gianfelice Mario Rocca,$6.5 B,-,pipe manufacturing,Italy
+#209,Roberto Irineu Marinho,$6.5 B,66,media,Brazil
+#210,Gautam Adani,$6.5 B,52,"commodities, infrastructure",India
+#211,Charles Johnson,$6.5 B,81,money management,United States
+#212,Joao Roberto Marinho,$6.5 B,61,media,Brazil
+#212,Jose Roberto Marinho,$6.5 B,58,media,Brazil
+#214,Charles Schwab,$6.4 B,77,discount brokerage,United States
+#215,Suleiman Kerimov,$6.4 B,48,investments,Russia
+#216,Ira Rennert,$6.3 B,80,investments,United States
+#217,Heinz Hermann Thiele & family,$6.3 B,73,brakes,Germany
+#218,Suh Kyung-Bae,$6.3 B,51,cosmetics,South Korea
+#219,Leslie Wexner,$6.3 B,77,retail,United States
+#220,Micky Arison,$6.2 B,65,Carnival Cruises,United States
+#221,Carlos and Alejandro Bulgheroni,$6.2 B,-,oil and gas,Argentina
+#222,Dietmar Hopp,$6.1 B,74,software,Germany
+#223,Sumner Redstone,$6.1 B,91,Media,United States
+#224,Rupert Johnson Jr,$6.1 B,73,money management,United States
+#225,Cyrus Poonawalla,$6.1 B,73,vaccines,India
+#226,Chung Mong-Koo,$6 B,76,motor vehicles,South Korea
+#227,Carl Cook,$6 B,52,medical devices,United States
+#228,Richard DeVos,$6 B,88,Amway,United States
+#229,Joseph Tsai,$6 B,50,e-commerce,Canada
+#230,Ivan Glasenberg,$6 B,57,mining,Australia
+#231,Hui Ka Yan,$5.9 B,56,real estate,China
+#232,Robert Rowling,$5.9 B,61,investments,United States
+#233,Stephen Ross,$5.9 B,74,real estate,United States
+#234,Ray Lee Hunt,$5.9 B,71,"oil, real estate",United States
+#235,Jeffery Hildebrand,$5.9 B,55,oil,United States
+#236,Lin Yu-lin,$5.9 B,78,real estate,Taiwan
+#237,Johann Graf,$5.9 B,67,gambling,Austria
+#238,Leonid Fedun,$5.8 B,58,Lukoil,Russia
+#239,Arthur Irving,$5.8 B,84,oil,Canada
+#240,Dennis Washington,$5.8 B,80,"construction, mining",United States
+#241,James Irving,$5.8 B,86,diversified,Canada
+#242,Lucio Tan & family,$5.8 B,80,diversified,Philippines
+#243,Gianluigi & Rafaela Aponte,$5.8 B,-,shipping,Switzerland
+#244,Walter Kwok,$5.8 B,63,real estate,Hong Kong
+#245,Teh Hong Piow,$5.8 B,84,banking,Malaysia
+#246,Pyotr Aven,$5.7 B,59,"oil, banking, telecom",Russia
+#247,Wei Jianjun & family,$5.7 B,50,automobiles,China
+#248,Uday Kotak,$5.7 B,55,banking,India
+#249,Kelcy Warren,$5.7 B,58,pipelines,United States
+#250,Cho Yaw Wee,$5.7 B,85,banking,Singapore
+#251,Stanley Kroenke,$5.7 B,67,"sports, real estate",United States
+#252,Jean-Claude Decaux & family,$5.6 B,76,advertising,France
+#253,Hui Wing Mau,$5.5 B,64,real estate,Hong Kong
+#254,Nassef Sawiris,$5.5 B,53,construction,Egypt
+#255,Ken Griffin,$5.5 B,45,hedge funds,United States
+#256,Sandra Ortega Mera & family,$5.5 B,46,Zara,Spain
+#257,Richard LeFrak & family,$5.5 B,69,real estate,United States
+#258,Iskander Makhmudov,$5.5 B,50,"mining, metals, machinery",Russia
+#259,Anil Ambani,$5.4 B,55,diversified,India
+#260,Antonio Del Valle Ruiz & family,$5.4 B,76,chemicals,Mexico
+#261,Enrique Razon Jr,$5.4 B,54,ports,Philippines
+#262,Harry Triguboff,$5.4 B,81,property,Australia
+#263,Kwee brothers,$5.4 B,69,real estate,Singapore
+#264,Trevor Rees-Jones,$5.4 B,63,oil & gas,United States
+#265,Stef Wertheimer & family,$5.3 B,88,tools,Israel
+#266,Herbert Kohler Jr & family,$5.3 B,75,plumbing fixtures,United States
+#267,Zhang Zhidong,$5.3 B,42,internet media,China
+#268,Krit Ratanarak,$5.3 B,68,"media, real estate",Thailand
+#269,Abdulla bin Ahmad Al Ghurair & family,$5.3 B,-,diversified,United Arab Emirates
+#270,Savitri Jindal & family,$5.3 B,64,steel,India
+#271,Denis O'Brien,$5.3 B,56,telecom,Ireland
+#272,Pansy Ho,$5.2 B,52,casinos,Hong Kong
+#273,Idan Ofer,$5.2 B,59,"drilling, shipping",Israel
+#274,Leon Black,$5.2 B,63,private equity,United States
+#275,Jin Sook & Do Won Chang,$5.2 B,59,fashion retail,United States
+#276,James Packer,$5.2 B,47,casinos,Australia
+#277,Lu Guanqiu,$5.2 B,69,diversified,China
+#278,Bidzina Ivanishvili,$5.2 B,58,investments,Georgia
+#279,Shashi & Ravi Ruia,$5.2 B,-,diversified,India
+#280,Sergei Popov,$5.2 B,43,banking,Russia
+#281,Maria Asuncion Aramburuzabala & family,$5.2 B,51,beer,Mexico
+#282,Nicholas Woodman,$5.1 B,39,video cameras,United States
+#283,Andrew Tan,$5.1 B,62,diversified,Philippines
+#284,Ann Walton Kroenke,$5.1 B,65,Wal-Mart,United States
+#285,Americo Amorim,$5.1 B,80,"energy, investments",Portugal
+#286,Stein Erik Hagen & family,$5.1 B,58,retail,Norway
+#287,Michael Ashley,$5.1 B,50,sports retailing,United Kingdom
+#288,Horst Paulmann & family,$5 B,79,retail,Chile
+#289,Karl-Heinz Kipp,$5 B,90,retail,Germany
+#290,Isak Andic & family,$5 B,60,clothing retail,Spain
+#291,Jay Y. Lee,$5 B,46,electronics/tourism,South Korea
+#292,Filaret Galchev,$5 B,51,construction materials,Russia
+#293,George Roberts,$5 B,71,private equity,United States
+#294,Philip & Cristina Green,$5 B,62,retail,United Kingdom
+#295,Yang Huiyan,$4.9 B,33,real estate,China
+#296,Richard Branson,$4.9 B,64,Virgin,United Kingdom
+#297,Henry Kravis,$4.9 B,70,private equity,United States
+#298,Bruce Kovner,$4.9 B,69,hedge funds,United States
+#299,Emanuele (Lino) Saputo,$4.9 B,77,cheese,Canada
+#300,Thomas Schmidheiny,$4.9 B,68,cement,Switzerland
+#301,Daniel Ziff,$4.9 B,42,investments,United States
+#301,Robert Ziff,$4.9 B,48,investments,United States
+#303,Dirk Ziff,$4.9 B,50,investments,United States
+#304,William Ding,$4.9 B,43,online games,China
+#305,Leonard Stern,$4.9 B,76,real estate,United States
+#306,John Gokongwei Jr,$4.8 B,87,diversified,Philippines
+#307,David Green,$4.8 B,72,retail,United States
+#308,Bruno Schroder & family,$4.8 B,81,banking,United Kingdom
+#309,Mike Adenuga,$4.8 B,61,"telcom, oil",Nigeria
+#310,Micky Jagtiani,$4.8 B,63,retail,India
+#311,Lee Shin Cheng,$4.8 B,75,"palm oil, real estate",Malaysia
+#312,Laurence Graff & family,$4.8 B,76,diamond jewelry,United Kingdom
+#313,Eduardo Saverin,$4.8 B,32,Facebook,Brazil
+#314,Tong Jinquan,$4.8 B,59,real estate,China
+#315,Frederik Paulsen,$4.8 B,63,health care,Sweden
+#316,Joe Lewis,$4.7 B,77,investments,United Kingdom
+#317,Sam Zell,$4.7 B,73,"real estate, private equity",United States
+#318,Lei Jun,$4.7 B,44,smartphones,China
+#319,Wang Chuanfu,$4.7 B,48,"batteries, autos",China
+#320,Desh Bandhu Gupta,$4.7 B,76,pharmaceuticals,India
+#321,Arnon Milchan,$4.7 B,69,movie making,Israel
+#322,Shari Arison,$4.7 B,57,Carnival Cruises,Israel
+#323,David Sun,$4.6 B,62,computer hardware,United States
+#323,John Tu,$4.6 B,73,computer hardware,United States
+#325,Bruce Halle,$4.6 B,84,tires,United States
+#326,Terrence Pegula,$4.6 B,63,natural gas,United States
+#327,Patrizio Bertelli,$4.6 B,68,luxury goods,Italy
+#328,Ludwig Merckle,$4.6 B,49,pharmaceuticals,Germany
+#329,John A. Sobrato & family,$4.6 B,75,real estate,United States
+#330,Melker Schorling,$4.6 B,67,investments,Sweden
+#331,Guo Guangchang,$4.6 B,47,diversified,China
+#332,Chey Tae-Won,$4.6 B,53,computer services/telecoms,South Korea
+#333,Chung Eui-Sun,$4.5 B,43,logistics,South Korea
+#334,Jacqueline Desmarais & family,$4.5 B,86,financial services,Canada
+#335,Albert Frere,$4.5 B,88,investments,Belgium
+#336,Anders Holch Povlsen,$4.5 B,41,retail,Denmark
+#337,Kunio Busujima & family,$4.5 B,89,gaming,Japan
+#338,Elizabeth Holmes,$4.5 B,30,blood testing,United States
+#339,Francisco Ivens de Sa Dias Branco,$4.5 B,78,food production,Brazil
+#340,Zhang Shiping & family,$4.5 B,67,metals,China
+#341,Karl Wlaschek,$4.5 B,97,retail,Austria
+#342,Sergio Mantegazza,$4.4 B,86,travel,Switzerland
+#343,Erivan Haub & family,$4.4 B,82,retail,Germany
+#344,Majid Al Futtaim,$4.4 B,-,"real estate, retail",United Arab Emirates
+#345,Jorn Rausing,$4.4 B,54,inherited,Sweden
+#346,Ted Lerner,$4.4 B,88,real estate,United States
+#347,Lin Rong San,$4.3 B,75,real estate,Taiwan
+#348,John Morris,$4.3 B,66,sporting goods retail,United States
+#349,Andreas von Bechtolsheim,$4.3 B,59,Google,Germany
+#350,James Dyson,$4.3 B,67,vacuums,United Kingdom
+#351,Jeronimo Arango & family,$4.3 B,88,retail,Mexico
+#352,Shahid Khan,$4.3 B,64,auto parts,United States
+#353,Heinz-Horst Deichmann & family,$4.3 B,88,shoes,Germany
+#354,Nancy Walton Laurie,$4.3 B,63,Wal-Mart,United States
+#355,Keiichiro Takahara,$4.3 B,83,diapers,Japan
+#356,Paul Tudor Jones II,$4.3 B,60,hedge funds,United States
+#357,George Lucas,$4.2 B,70,Star Wars,United States
+#358,Vanich Chaiyawan,$4.2 B,82,"insurance, beverages",Thailand
+#359,Samuel Yin,$4.2 B,64,diversified,Taiwan
+#360,Prince Sultan bin Mohammed bin Saud Al Kabeer,$4.2 B,60,dairy farms,Saudi Arabia
+#361,Dieter Schnabel,$4.2 B,68,chemicals,Germany
+#362,Liselott Persson,$4.2 B,65,H&M,Sweden
+#363,Jerry Jones,$4.2 B,71,Dallas Cowboys,United States
+#364,Pierre Bellon & family,$4.2 B,84,food services,France
+#365,Finn Rausing,$4.2 B,59,inherited,Sweden
+#365,Kirsten Rausing,$4.2 B,62,packaging,Sweden
+#367,Kirk Kerkorian,$4.1 B,97,"casinos, investments",United States
+#368,Bernard Ecclestone & family,$4.1 B,83,Formula One,United Kingdom
+#369,Frank Lowy,$4.1 B,83,shopping malls,Australia
+#370,Juan Roig,$4.1 B,65,supermarkets,Spain
+#371,Liang Wengen,$4.1 B,57,manufacturing,China
+#372,Daniel Gilbert,$4.1 B,52,Quicken Loans,United States
+#373,Karen Pritzker,$4.1 B,56,"hotels, investments",United States
+#374,Subhash Chandra,$4.1 B,63,media,India
+#375,Michael & Marian Ilitch & family,$4 B,85,pizza,United States
+#376,Curt Engelhorn,$4 B,88,pharmaceuticals,Germany
+#377,Guenter Herz & Family,$4 B,74,coffee,Germany
+#378,Robert Kraft,$4 B,73,New England Patriots,United States
+#379,Barry Lam,$4 B,65,computers,Taiwan
+#380,Bernard (Barry) Sherman,$4 B,72,pharmaceuticals,Canada
+#381,Donald Trump,$4 B,68,"television, real estate",United States
+#382,Bertil Hult,$4 B,73,education,Sweden
+#383,Mark Shoen,$4 B,62,U-Haul,United States
+#384,Gustavo Cisneros & family,$4 B,69,media,Venezuela
+#385,Jerry Speyer,$4 B,74,real estate,United States
+#386,Alexander Abramov,$4 B,55,"steel, mining",Russia
+#387,Alexander Svetakov,$4 B,46,"banking, real estate",Russia
+#388,Chairul Tanjung,$4 B,52,diversified,Indonesia
+#389,Niels Peter Louis-Hansen,$4 B,66,medical devices,Denmark
+#390,Walter Faria,$3.9 B,59,beer,Brazil
+#391,George Ty & family,$3.9 B,81,banking,Philippines
+#392,Wang Wei,$3.9 B,-,delivery service,China
+#393,Lu Zhiqiang,$3.9 B,62,diversified,China
+#394,Leon G. Cooperman,$3.9 B,71,hedge funds,United States
+#395,Gwendolyn Sontheim Meyer,$3.9 B,53,Cargill Inc.,United States
+#395,Pauline MacMillan Keinath,$3.9 B,80,Cargill Inc.,United States
+#395,Whitney MacMillan,$3.9 B,85,Cargill Inc.,United States
+#398,Elizabeth Mohn & family,$3.9 B,73,media,Germany
+#399,Jeffrey Skoll,$3.9 B,49,Ebay,United States
+#400,Samvel Karapetyan,$3.9 B,49,development,Russia
+#401,H. Ross Perot Sr,$3.8 B,84,"computer services, real estate",United States
+#402,Ermirio Pereira de Moraes,$3.8 B,82,diversified,Brazil
+#403,Luo Jye & family,$3.8 B,88,tires,Taiwan
+#404,Adi Godrej & family,$3.8 B,72,consumer goods,India
+#404,Jamshyd Godrej & family,$3.8 B,65,consumer goods,India
+#406,David Consunji,$3.8 B,92,construction,Philippines
+#407,Andre Esteves,$3.8 B,46,banking,Brazil
+#408,Ronald Lauder,$3.8 B,70,Estee Lauder,United States
+#409,Mohammed Al Issa,$3.8 B,89,investments,Saudi Arabia
+#410,Ingvar Kamprad & family,$3.8 B,88,Ikea,Sweden
+#411,Stewart and Lynda Resnick,$3.8 B,-,"agriculture, water",United States
+#412,Reid Hoffman,$3.8 B,47,LinkedIn,United States
+#413,David Shaw,$3.8 B,63,hedge funds,United States
+#414,Lynn Schusterman,$3.8 B,75,"oil & gas, investments",United States
+#415,Clayton Riddell,$3.8 B,77,oil & gas,Canada
+#416,Liu Yonghao & family,$3.8 B,63,agribusiness,China
+#417,Brijmohan Lall Munjal,$3.8 B,91,motorcycles,India
+#418,Sun Guangxin,$3.8 B,51,diversified,China
+#419,Sri Prakash Lohia,$3.8 B,62,polyester,Indonesia
+#420,Jan Kulczyk,$3.7 B,64,"telecom, oil, beer",Poland
+#421,John Sall,$3.7 B,66,software,United States
+#422,Michael Herz,$3.7 B,71,coffee,Germany
+#422,Wolfgang Herz,$3.7 B,63,coffee,Germany
+#424,Abilio dos Santos Diniz,$3.7 B,77,retail,Brazil
+#425,Lars Larsen,$3.7 B,66,retail,Denmark
+#426,Martha Ingram & family,$3.7 B,79,"book distribution, transportation",United States
+#427,Riley Bechtel,$3.7 B,62,"engineering, construction",United States
+#427,Stephen Bechtel Jr,$3.7 B,89,"engineering, construction",United States
+#429,Guenther Fielmann & family,$3.7 B,75,optometry,Germany
+#430,Phillip Frost,$3.7 B,77,pharmaceuticals,United States
+#431,George Lindemann & family,$3.7 B,78,investments,United States
+#432,Charles Dolan & family,$3.7 B,87,cable television,United States
+#433,Erich Kellerhals,$3.7 B,75,electronics retailer,Germany
+#434,J. Christopher Reyes,$3.7 B,60,food distribution,United States
+#434,Jude Reyes,$3.7 B,59,food distribution,United States
+#436,Murat Ulker,$3.7 B,55,food manufacturing,Turkey
+#437,Igor Kesaev,$3.7 B,47,"tobacco distribution, retail",Russia
+#438,Steven Udvar-Hazy,$3.7 B,68,aircraft leasing,United States
+#439,Nathan Kirsh,$3.7 B,82,"retail, real estate",Swaziland
+#440,Zhang Xin & family,$3.6 B,49,real estate,China
+#441,Tamara Gustavson & family,$3.6 B,52,self storage,United States
+#442,Dan Olsson,$3.6 B,67,diversified,Sweden
+#443,Mitchell Rales,$3.6 B,58,"manufacturing, investments",United States
+#444,Sheldon Solow,$3.6 B,86,real estate,United States
+#445,Michael Platt,$3.6 B,46,hedge Fund,United Kingdom
+#446,Steven Spielberg,$3.6 B,67,Movies,United States
+#447,Frits Goldschmeding,$3.6 B,81,temp agency,Netherlands
+#448,Daniel Och,$3.6 B,53,hedge funds,United States
+#449,Christoffel Wiese,$3.6 B,73,retailing,South Africa
+#450,Gustaf Douglas,$3.6 B,76,security,Sweden
+#451,Matthias Reimann-Andersen,$3.5 B,49,consumer goods,Germany
+#451,Renate Reimann-Haas,$3.5 B,63,consumer goods,Germany
+#451,Stefan Reimann-Andersen,$3.5 B,51,consumer goods,Germany
+#451,Wolfgang Reimann,$3.5 B,62,consumer goods,Germany
+#455,Frederick Smith,$3.5 B,70,FedEx,United States
+#456,Alain Merieux & family,$3.5 B,76,pharmaceuticals,France
+#457,Diane Hendricks,$3.5 B,67,roofing,United States
+#458,Edward Roski Jr,$3.5 B,75,real estate,United States
+#459,David & Frederick Barclay,$3.5 B,80,"media, retail",United Kingdom
+#460,Lorenzo Mendoza & family,$3.5 B,49,beverages,Venezuela
+#461,Ralph Dommermuth,$3.5 B,50,internet service provider,Germany
+#462,Steve Wynn,$3.5 B,72,"casinos, hotels",United States
+#463,Zygmunt Solorz-Zak,$3.5 B,58,TV broadcasting,Poland
+#464,Cheng Liang Goh,$3.5 B,-,paints,Singapore
+#465,Andrei Guriev,$3.5 B,54,fertilizers,Russia
+#466,Daryl Katz,$3.4 B,53,pharmacies,Canada
+#467,Isabel dos Santos,$3.4 B,41,investments,Angola
+#468,Ian & Richard Livingstone,$3.4 B,-,real estate,United Kingdom
+#469,Gong Hongjia & family,$3.4 B,49,investments,Hong Kong
+#470,Lu Xiangyang,$3.4 B,51,automobiles,China
+#471,Haim Saban,$3.4 B,69,television,United States
+#472,Isaac Perlmutter,$3.4 B,71,Marvel comics,United States
+#473,Ronda Stryker,$3.4 B,60,medical equipment,United States
+#474,Israel Englander,$3.4 B,66,hedge funds,United States
+#475,Akira Mori & family,$3.4 B,78,real estate,Japan
+#476,Najib Mikati,$3.4 B,58,telecom,Lebanon
+#476,Taha Mikati,$3.4 B,69,telecom,Lebanon
+#478,Aloys Wobben,$3.4 B,62,wind turbines,Germany
+#479,Liu Zhongtian & family,$3.4 B,50,aluminum products,China
+#480,Masatoshi Ito,$3.4 B,90,retail,Japan
+#481,Reinhold Schmieding,$3.4 B,59,medical devices,United States
+#482,Friede Springer,$3.4 B,72,publishing,Germany
+#483,Jay Robert (J.B.) Pritzker,$3.3 B,49,"hotels, investments",United States
+#484,Anthony Pritzker,$3.3 B,53,"hotels, investments",United States
+#485,Pankaj Patel,$3.3 B,61,pharmaceuticals,India
+#486,Brian Acton,$3.3 B,42,WhatsApp,United States
+#487,Steven Rales,$3.3 B,63,manufacturing,United States
+#488,Yvonne Bauer & family,$3.3 B,37,media,Germany
+#489,Paul Ramsay,$3.3 B,78,health care,Australia
+#490,Axel Oberwelland,$3.3 B,47,candy,Germany
+#491,Saif Al Ghurair & family,$3.3 B,-,diversified,United Arab Emirates
+#492,Francis Choi,$3.3 B,67,real estate,Hong Kong
+#493,Jiang Bin,$3.3 B,48,electronics,China
+#494,Aloysio de Andrade Faria,$3.3 B,93,banking,Brazil
+#495,Dagmar Dolby & family,$3.3 B,73,Dolby Laboratories,United States
+#496,Stephan Schmidheiny,$3.3 B,66,investments,Switzerland
+#497,Julian Robertson Jr,$3.3 B,82,hedge funds,United States
+#498,Kushal Pal Singh,$3.3 B,83,real estate,India
+#499,Evan Williams,$3.3 B,42,Twitter,United States
+#500,John Doerr,$3.3 B,63,venture capital,United States
+#501,Tom & Judy Love,$3.3 B,77,retail & gas stations,United States
+#502,John Gandel,$3.3 B,80,shopping malls,Australia
+#503,Andreas Struengmann,$3.3 B,64,pharmaceuticals,Germany
+#503,Thomas Struengmann,$3.3 B,64,pharmaceuticals,Germany
+#505,Dan Friedkin,$3.2 B,49,Toyota dealerships,United States
+#506,Roger Wang,$3.2 B,65,retail,United States
+#507,God Nisanov,$3.2 B,42,real estate,Russia
+#507,Zarakh Iliev,$3.2 B,48,real estate,Russia
+#509,Arkady Rotenberg,$3.2 B,62,"construction, pipes, banking",Russia
+#510,Rafael Del Pino y Calvo-Sotelo,$3.2 B,56,construction,Spain
+#511,Jim Davis & family,$3.2 B,71,New Balance,United States
+#512,Igor Olenicoff,$3.2 B,72,real estate,United States
+#513,Shi Yuzhu,$3.2 B,52,diversified,China
+#514,Qiu Guanghe & family,$3.2 B,62,retail,China
+#515,Wolfgang Marguerre,$3.2 B,73,pharmaceuticals,Germany
+#516,David Cheriton,$3.2 B,63,Google,Canada
+#517,Wang Yung-Tsai & family,$3.2 B,93,plastics,Polynesia
+#518,Jaime Gilinski Bacal,$3.2 B,56,banking,Colombia
+#519,Anthony Bamford & family,$3.2 B,68,construction equipment,United Kingdom
+#520,Yitzhak Tshuva,$3.2 B,66,real estate,Israel
+#521,Peter Kellogg,$3.2 B,72,investments,United States
+#522,John Paul DeJoria,$3.2 B,70,"hair products, tequila",United States
+#523,Doris Fisher,$3.2 B,83,Gap,United States
+#524,Daniela Herz,$3.2 B,60,coffee,Germany
+#525,Archie Aldis Emmerson,$3.2 B,85,"timberland, lumber mills",United States
+#526,Mohamed Mansour,$3.2 B,66,diversified,Egypt
+#527,Chee Chen Tung & family,$3.2 B,72,shipping,Hong Kong
+#528,Marc Benioff,$3.2 B,50,business software,United States
+#529,Bernard Marcus,$3.2 B,85,Home Depot,United States
+#530,Wang Yusuo & family,$3.1 B,50,energy,China
+#531,William Koch,$3.1 B,74,"oil, investments",United States
+#532,Victor Pinchuk,$3.1 B,53,"steel pipes, diversified",Ukraine
+#533,Pan Zhengmin & family,$3.1 B,44,electronics,China
+#534,Dik Wessels,$3.1 B,68,"construction, engineering",Netherlands
+#535,Joan Tisch,$3.1 B,88,diversified,United States
+#536,David Filo,$3.1 B,48,Yahoo,United States
+#537,Wu Yajun & family,$3.1 B,50,real estate,China
+#538,Mikhail Gutseriev,$3.1 B,56,"oil, real estate",Russia
+#539,Thomas Pritzker,$3.1 B,64,"hotels, investments",United States
+#540,Stanley Druckenmiller,$3.1 B,61,hedge funds,United States
+#541,Randal Kirk,$3.1 B,60,pharmaceuticals,United States
+#542,Amos Hostetter Jr,$3.1 B,77,cable television,United States
+#543,Jeremy Jacobs Sr,$3.1 B,74,sports concessions,United States
+#544,Martin & Olivier Bouygues,$3.1 B,-,"construction, media",France
+#545,Maria Helena Moraes Scripilliti,$3.1 B,84,diversified,Brazil
+#546,Zhang Jindong,$3.1 B,51,retail,China
+#547,Robert Bass,$3.1 B,66,"oil, investments",United States
+#548,Benu Gopal Bangur,$3.1 B,83,cement,India
+#549,Masahiro Miki,$3.1 B,59,retail,Japan
+#550,Robert Rich Jr,$3.1 B,73,frozen foods,United States
+#551,Fredrik Lundberg,$3 B,63,"real estate, investments",Sweden
+#552,Emilio Azcarraga Jean,$3 B,46,media,Mexico
+#553,Edward DeBartolo Jr,$3 B,67,shopping centers,United States
+#554,Jorge Perez,$3 B,64,condos,United States
+#555,Tang Yiu,$3 B,80,retail,Hong Kong
+#556,Anthony Pratt,$3 B,54,"packaging, recycling",Australia
+#557,Tom Gores,$3 B,50,private equity,United States
+#558,Saleh Kamel,$3 B,73,diversified,Saudi Arabia
+#559,Otto Happel,$3 B,66,engineering,Germany
+#560,Heidi Horten,$3 B,73,retail,Austria
+#561,James Leprino,$3 B,76,cheese,United States
+#562,Rosa Anna Magno Garavoglia & family,$3 B,-,spirits,Italy
+#563,Jason Chang,$3 B,70,electronics,Singapore
+#564,David Rockefeller Sr,$3 B,99,"oil, banking",United States
+#565,James Jannard,$3 B,65,sunglasses,United States
+#566,George Bishop,$3 B,77,oil & gas,United States
+#566,Jeff Sutton,$3 B,54,real estate,United States
+#566,Travis Kalanick,$3 B,38,ride-sharing service,United States
+#566,Wilbur Ross Jr,$3 B,76,investments,United States
+#570,Warren Stephens,$3 B,57,investment banking,United States
+#571,Naguib Sawiris,$3 B,60,telecom,Egypt
+#572,Odd Reitan,$3 B,63,Reitan Group,Norway
+#573,Jeff Greene,$3 B,59,"real estate, investments",United States
+#574,Anil Agarwal,$3 B,61,"mining, metals",India
+#575,Husnu Ozyegin,$3 B,70,"finance, diversified",Turkey
+#576,David Murdock,$3 B,91,"Dole, real estate",United States
+#577,Leandro Rizzuto & family,$3 B,76,consumer products,United States
+#578,Daniel D'Aniello,$3 B,68,private equity,United States
+#579,William Conway Jr,$3 B,65,private equity,United States
+#580,Huang Rulun,$3 B,63,real estate,China
+#581,Edward Lampert,$3 B,52,Sears,United States
+#582,Maria-Elisabeth Schaeffler,$3 B,73,ball bearings,Germany
+#583,Oprah Winfrey,$3 B,60,Television,United States
+#584,David Rubenstein,$3 B,65,private equity,United States
+#585,Mary Alice Dorrance Malone,$3 B,64,Campbell Soup,United States
+#586,Magdalena Martullo-Blocher,$3 B,45,chemicals,Switzerland
+#587,Rahel Blocher,$3 B,38,chemicals,Switzerland
+#588,Antti Herlin,$2.9 B,57,"elevators, escalators",Finland
+#589,Andrew Forrest,$2.9 B,52,mining,Australia
+#590,Ray Davis,$2.9 B,72,pipelines,United States
+#591,Andrew & Peggy Cherng,$2.9 B,-,restaurants,United States
+#592,Alfred Taubman,$2.9 B,90,real estate,United States
+#593,Samuel Tak Lee,$2.9 B,75,real estate,Hong Kong
+#594,John Arnold,$2.9 B,40,hedge funds,United States
+#595,Ziyad Manasir,$2.9 B,48,construction,Russia
+#596,Walter Scott Jr & family,$2.9 B,83,"utilities, telecom",United States
+#597,Wang Yung-Tsai,$2.9 B,93,plastics,Taiwan
+#598,Jean Pierre Cayard,$2.9 B,71,Spirits,France
+#599,Farhad Moshiri,$2.9 B,59,"iron ore, steel, telecoms",United Kingdom
+#600,Huang Shih Tsai,$2.9 B,63,real estate,Hong Kong
+#601,Vladimir Yevtushenkov,$2.9 B,66,telecom,Russia
+#602,Yeoh Tiong Lay,$2.9 B,84,"construction, real estate",Malaysia
+#603,John Fisher,$2.8 B,53,Gap,United States
+#604,Hans Peter Wild,$2.8 B,73,Wild Flavors GmbH,Germany
+#605,Vikram Lal,$2.8 B,72,automobiles,India
+#606,Kevin Plank,$2.8 B,42,Under Armour,United States
+#607,Mangal Prabhat Lodha,$2.8 B,58,real estate,India
+#608,Michael Ying,$2.8 B,64,retail,Hong Kong
+#609,Renzo Rosso,$2.8 B,59,Diesel Jeans,Italy
+#610,Viktor Rashnikov,$2.8 B,65,steel,Russia
+#611,Alexander Nesis,$2.8 B,51,"metals, banking, fertilizers",Russia
+#612,Yusuf Hamied,$2.8 B,78,pharmceuticals,India
+#613,Heinz-Georg Baus,$2.8 B,80,home improvement stores,Germany
+#614,Richard Chandler,$2.8 B,55,investments,New Zealand
+#615,Neil Bluhm,$2.8 B,76,real estate,United States
+#616,Donald Sterling,$2.8 B,78,real estate,United States
+#617,Syed Mokhtar AlBukhary,$2.8 B,62,diversified,Malaysia
+#618,Bill Marriott Jr,$2.8 B,82,hotels,United States
+#619,Friedhelm Loh,$2.8 B,68,manufacturing,Germany
+#620,Mochtar Riady & family,$2.8 B,85,diversified,Indonesia
+#621,Renata de Camargo Nascimento,$2.8 B,63,construction,Brazil
+#622,Rossana Camargo de Arruda Botelho,$2.8 B,64,construction,Brazil
+#623,Richard Rainwater,$2.8 B,70,"real estate, energy, insurance",United States
+#624,Eddie & Sol Zakay,$2.7 B,63,real estate,United Kingdom
+#625,Sarik Tara,$2.7 B,84,construction,Turkey
+#626,Ravi Pillai,$2.7 B,61,construction,India
+#627,Min Kao & family,$2.7 B,65,navigation equipment,United States
+#628,Clayton Mathile,$2.7 B,73,pet food,United States
+#629,Michael Stoschek & family,$2.7 B,66,autoparts,Germany
+#630,Mark Cuban,$2.7 B,56,online media,United States
+#631,Law Kar Po,$2.7 B,66,hotels,Hong Kong
+#632,John Caudwell,$2.7 B,62,mobile phones,United Kingdom
+#633,Theo Mueller,$2.7 B,74,dairy,Germany
+#634,Fernando Roberto Moreira Salles,$2.7 B,68,"banking, minerals",Brazil
+#635,Joao Moreira Salles,$2.7 B,52,"banking, minerals",Brazil
+#636,Pedro Moreira Salles,$2.7 B,54,"banking, minerals",Brazil
+#637,Walther Moreira Salles Junior,$2.7 B,58,banking,Brazil
+#638,A. Jerrold Perenchio,$2.7 B,83,"television, Univision",United States
+#639,Michael Pieper,$2.7 B,68,kitchen appliances,Switzerland
+#640,Miguel Krigsner,$2.7 B,64,cosmetics,Brazil
+#641,Timothy Headington,$2.7 B,64,"oil & gas, investments",United States
+#642,Michael Rubin,$2.7 B,42,online retailing,United States
+#643,Jack Dorsey,$2.7 B,37,Twitter,United States
+#644,Ken Fisher,$2.7 B,63,money management,United States
+#645,H. Fisk Johnson,$2.6 B,56,cleaning products,United States
+#646,Helen Johnson-Leipold,$2.6 B,57,cleaning products,United States
+#647,S. Curtis Johnson,$2.6 B,59,cleaning products,United States
+#648,Winnie Johnson-Marquart,$2.6 B,55,cleaning products,United States
+#649,Peter Hargreaves,$2.6 B,68,financial services,United Kingdom
+#650,Ye Chenghai & family,$2.6 B,71,pharmaceuticals,Hong Kong
+#651,Alexandra Schorghuber,$2.6 B,56,real estate,Germany
+#652,Imogene Powers Johnson,$2.6 B,84,cleaning products,United States
+#653,Indu Jain,$2.6 B,78,media,India
+#654,H. Wayne Huizenga,$2.6 B,76,investments,United States
+#655,Alexander Ponomarenko,$2.6 B,49,port,Russia
+#656,Peter Buck,$2.6 B,83,Subway Restaurants,United States
+#657,Fred DeLuca,$2.6 B,67,Subway Restaurants,United States
+#658,Abdullah Al Rajhi,$2.6 B,-,banking,Saudi Arabia
+#659,Alexander Skorobogatko,$2.6 B,47,port,Russia
+#660,Pang Kang,$2.6 B,58,flavorings,China
+#661,Carlos Hank Rhon & family,$2.6 B,66,banking,Mexico
+#662,Kerr Neilson,$2.6 B,64,investment,Australia
+#663,Dirk Rossmann,$2.6 B,68,drugstore chain,Germany
+#664,William Wrigley Jr,$2.6 B,50,chewing gum,United States
+#665,Michel Leclercq & family,$2.6 B,75,sporting goods,France
+#666,Bernard Broermann,$2.6 B,70,healthcare,Germany
+#667,Torbjorn Tornqvist,$2.6 B,60,oil trading,Sweden
+#668,Gary Rollins,$2.6 B,70,Rollins Inc.,United States
+#669,Randall Rollins,$2.6 B,82,Rollins Inc.,United States
+#670,Beny Steinmetz,$2.6 B,58,"mining, diamonds, real estate",Israel
+#671,Jack Dangermond,$2.6 B,69,mapping software,United States
+#672,Austen Cargill II,$2.6 B,63,Cargill Inc.,United States
+#673,James Cargill II,$2.6 B,65,Cargill Inc.,United States
+#674,Marianne Liebmann,$2.6 B,61,"Cargill, Inc.",United States
+#675,Joshua Harris,$2.6 B,49,private equity,United States
+#676,Prasert Prasarttong-Osoth,$2.6 B,81,hospitals,Thailand
+#677,Issad Rebrab,$2.6 B,70,food,Algeria
+#678,Ron Burkle,$2.6 B,61,"supermarkets, investments",United States
+#679,Stephen Bisciotti,$2.6 B,54,"outsourcing, football",United States
+#680,Carlo Benetton,$2.6 B,70,"clothing, investments",Italy
+#681,Gilberto Benetton,$2.6 B,73,"clothing, investments",Italy
+#682,Giuliana Benetton,$2.6 B,77,"clothing, investments",Italy
+#683,Abdulla Al Futtaim,$2.6 B,-,"auto dealers, investments",United Arab Emirates
+#684,Eduardo Belmont Anderson,$2.6 B,68,cosmetics,Peru
+#685,Bernard Saul II,$2.6 B,82,"banking, real estate",United States
+#686,Bernardo Matte,$2.6 B,59,paper,Chile
+#687,Eliodoro Matte,$2.6 B,69,paper,Chile
+#688,Patricia Matte,$2.6 B,71,paper,Chile
+#689,Luciano Benetton,$2.6 B,79,"clothing, investments",Italy
+#690,David Bonderman,$2.6 B,71,private equity,United States
+#691,Andrej Babis,$2.5 B,60,agriculture,Czech Republic
+#692,Erman Ilicak,$2.5 B,47,construction,Turkey
+#693,Sukanto Tanoto,$2.5 B,64,diversified,Indonesia
+#694,Shigenobu Nagamori,$2.5 B,70,motors,Japan
+#695,Jean Coutu,$2.5 B,87,pharmacies,Canada
+#696,Bharat Desai & family,$2.5 B,61,Outsourcing,United States
+#697,W. Herbert Hunt,$2.5 B,85,"oil, real estate",United States
+#698,Vasily Anisimov,$2.5 B,63,"metals, real estate",Russia
+#699,Che Fengsheng,$2.5 B,51,pharmaceuticals,China
+#700,Harry Stine,$2.5 B,72,agriculture,United States
+#701,Rodney Lewis,$2.5 B,60,natural gas,United States
+#702,Fu Liquan & family,$2.5 B,47,electronics,China
+#703,Clive Calder,$2.5 B,67,record label,United Kingdom
+#704,Henry Hillman,$2.5 B,95,investments,United States
+#705,John Dorrance III,$2.5 B,70,Campbell Soup,Ireland
+#706,Philip Niarchos,$2.5 B,60,art collection,Greece
+#707,Russ Weiner,$2.5 B,44,energy drinks,United States
+#708,Li Li & family,$2.5 B,50,pharmaceuticals,China
+#709,Michael Milken,$2.5 B,68,investments,United States
+#710,John Kapoor,$2.5 B,71,healthcare,United States
+#711,Michael Moritz,$2.5 B,60,venture capital,United States
+#712,Helmut Sohmen,$2.5 B,74,shipping,Austria
+#713,Folorunsho Alakija,$2.5 B,63,oil,Nigeria
+#714,Jean-Michel Besnier,$2.5 B,47,cheese,France
+#715,Marie Besnier Beauvalot,$2.5 B,34,cheese,France
+#716,Carlos Ardila Lulle,$2.5 B,84,"soft drinks, diversified",Colombia
+#717,Maria Luisa Solari Falabella & family,$2.5 B,73,retail,Chile
+#718,Semahat Sevim Arsel,$2.5 B,86,diversified,Turkey
+#719,Zhu Xingliang,$2.5 B,55,construction,China
+#720,Kenneth Langone,$2.5 B,79,investments,United States
+#721,Romesh T. Wadhwani,$2.5 B,67,software,United States
+#722,Phillip Ruffin,$2.5 B,79,"casinos, real estate",United States
+#723,Penny Pritzker,$2.5 B,55,"hotels, investments",United States
+#724,Marc Rowan,$2.5 B,52,private equity,United States
+#725,Sze Man Bok,$2.5 B,64,hygiene products,China
+#726,Jean (Gigi) Pritzker,$2.4 B,52,"hotels, investments",United States
+#727,Philippe Foriel-Destezet,$2.4 B,79,employment agency,France
+#728,Daniel Mate,$2.4 B,51,Glencore International,Spain
+#729,Charles Dunstone,$2.4 B,50,mobile phones,United Kingdom
+#730,Hanni Toosbuy Kasprzak,$2.4 B,57,shoes,Denmark
+#731,Tilman Fertitta,$2.4 B,57,"restaurants, casinos",United States
+#732,Martin Viessmann,$2.4 B,60,heating equipment,Germany
+#733,Sebastian Pinera,$2.4 B,64,investments,Chile
+#734,Stelios Haji-Ioannou,$2.4 B,47,EasyJet,Cyprus
+#735,Edwin Leong,$2.4 B,62,real estate,Hong Kong
+#736,Richard Schulze,$2.4 B,73,Best Buy,United States
+#737,Aristotelis Mistakidis,$2.4 B,52,Glencore International,Greece
+#738,Hui Lin Chit,$2.4 B,61,hygiene products,China
+#739,Tsai Hong-tu,$2.4 B,62,finance,Taiwan
+#740,Peter Sondakh,$2.4 B,62,investments,Indonesia
+#741,Naruatsu Baba,$2.4 B,36,smartphone game maker,Japan
+#742,Lindsay Fox,$2.4 B,77,transport,Australia
+#743,Robert McNair,$2.4 B,77,"energy, sports",United States
+#744,Richard Desmond,$2.4 B,62,publishing,United Kingdom
+#745,B. Wayne Hughes,$2.4 B,81,self storage,United States
+#746,Rahul Bajaj,$2.4 B,76,motorcycles,India
+#747,Song Zuowen,$2.4 B,67,diversified,China
+#748,Joseph Grendys,$2.4 B,52,Meat Processing,United States
+#749,Henry Fong Yun Wah,$2.4 B,89,real estate,Hong Kong
+#750,Li Zhongchu,$2.4 B,51,information technology,China
+#751,Chen Fashu,$2.4 B,53,diversified,China
+#752,Mortimer Zuckerman,$2.4 B,77,"real estate, media",United States
+#753,Mustafa Rahmi Koc,$2.4 B,83,diversified,Turkey
+#754,Patrick Lee,$2.4 B,72,paper,Hong Kong
+#755,Patrick Ryan,$2.4 B,77,insurance,United States
+#756,Victor Fung,$2.4 B,68,trading company,United States
+#757,Youssef Mansour,$2.4 B,69,diversified,Egypt
+#758,Spiro Latsis & family,$2.4 B,67,"banking, shipping",Greece
+#759,Johan Johannson,$2.4 B,47,"NorgesGruppen, grocery wholesaling",Norway
+#760,Kjell Inge Rokke,$2.3 B,55,"shipping, seafood",Norway
+#761,Elaine Wynn,$2.3 B,71,"casinos, hotels",United States
+#762,Daniel Loeb,$2.3 B,52,hedge funds,United States
+#763,Ma Jianrong & family,$2.3 B,50,"textiles, apparel",China
+#764,Ferit Faik Sahenk,$2.3 B,50,"banking, media",Turkey
+#765,Bill Gross,$2.3 B,70,investments,United States
+#766,Teddy Sagi,$2.3 B,42,gambling software,Israel
+#767,Jean Claude Gandur,$2.3 B,65,"oil trading, exploration",Switzerland
+#768,Peter Spuhler,$2.3 B,55,manufacturing,Switzerland
+#769,Edson de Godoy Bueno,$2.3 B,71,"hospitals, health care",Brazil
+#770,David Penaloza Sandoval,$2.3 B,67,construction,Mexico
+#771,Hubert Burda,$2.3 B,74,publishing,Germany
+#772,Sit Kwong Lam,$2.3 B,46,"oil, transportation",Hong Kong
+#773,Barry Diller,$2.3 B,72,online media,United States
+#774,John Whittaker,$2.3 B,72,real estate,United Kingdom
+#775,Edward Bass,$2.3 B,69,"oil, investments",United States
+#776,Lee Bass,$2.3 B,58,"oil, investments",United States
+#777,Herbert Simon,$2.3 B,79,real estate,United States
+#778,John Catsimatidis,$2.3 B,66,"oil, real estate, supermarkets",United States
+#779,Malvinder & Shivinder Singh,$2.3 B,-,healthcare,India
+#780,Eva Maria Bucher-Haefner,$2.3 B,57,Computer Associates,Switzerland
+#781,Lawrence Stroll,$2.3 B,55,retail,Canada
+#782,Silas Chou,$2.3 B,68,apparel,Hong Kong
+#783,Judy Faulkner,$2.3 B,71,health IT,United States
+#784,Thomas Siebel,$2.3 B,61,business software,United States
+#785,Raj Kumar & Kishin RK,$2.3 B,60,real estate,Singapore
+#786,M.A. Yusuff Ali,$2.3 B,58,retail,India
+#787,Valery Kogan,$2.3 B,63,airport,Russia
+#788,Maja Oeri,$2.3 B,59,Roche Holding,Switzerland
+#789,Manuel Jove,$2.3 B,73,real estate,Spain
+#790,Bahaa Hariri,$2.3 B,48,"real estate, investments, logistics",Lebanon
+#791,Tsai Cheng-da,$2.3 B,-,finance,Taiwan
+#792,Anita Zucker,$2.2 B,62,chemicals,United States
+#793,Ty Warner,$2.2 B,70,"real estate, plush toys",United States
+#794,Juan Abello,$2.2 B,72,investments,Spain
+#795,Arthur Blank,$2.2 B,72,Home Depot,United States
+#796,Karen Johnson Boyd,$2.2 B,90,cleaning products,United States
+#797,Alexei Ananyev,$2.2 B,50,"banking, IT, real estate",Russia
+#798,Dmitry Ananyev,$2.2 B,45,"banking, IT, real estate",Russia
+#799,Clemmie Spangler Jr,$2.2 B,82,investments,United States
+#800,Robert Miller,$2.2 B,69,electronics components,Canada
+#801,John Arrillaga,$2.2 B,77,real estate,United States
+#802,Andreas Halvorsen,$2.2 B,53,hedge funds,Norway
+#803,Peter Lim,$2.2 B,61,investments,Singapore
+#804,Glen Taylor,$2.2 B,73,printing,United States
+#805,Danil Khachaturov,$2.2 B,42,"insurance, banking, real estate",Russia
+#806,Louis Le Duff,$2.2 B,68,bakeries,France
+#807,Jiang Rensheng & family,$2.2 B,61,pharmaceuticals,China
+#808,Michael Jaharis,$2.2 B,86,pharmaceuticals,United States
+#809,Herbert Louis,$2.2 B,86,cleaning products,United States
+#810,Josephine Louis & family,$2.2 B,84,cleaning products,United States
+#811,Ted Turner,$2.2 B,75,cable television,United States
+#812,Siegfried Meister,$2.2 B,76,appliances,Germany
+#813,Arne Wilhelmsen & family,$2.2 B,84,Royal Caribbean,Norway
+#814,Zhu Gongshan,$2.2 B,56,solar panel materials,China
+#815,Kalanithi Maran,$2.2 B,49,media,India
+#816,Jose and Francisco Jose Calderon Rojas,$2.2 B,60,beverages,Mexico
+#817,Tom Golisano,$2.2 B,72,payroll services,United States
+#818,James Dinan,$2.2 B,55,hedge funds,United States
+#819,James Coulter,$2.2 B,54,private equity,United States
+#820,Bernd Freier,$2.2 B,57,retail,Germany
+#821,Giuseppe De'Longhi,$2.2 B,75,retail,Italy
+#822,Richard Peery,$2.2 B,76,real estate,United States
+#823,Khoon Hong Kuok,$2.2 B,64,palm oil,Singapore
+#824,Daniel Pritzker,$2.2 B,55,"hotels, investments",United States
+#825,Henry Samueli,$2.2 B,60,semiconductors,United States
+#826,Chu Lam Yiu,$2.2 B,44,flavorings,Hong Kong
+#827,Vladimir Bogdanov,$2.2 B,63,oil,Russia
+#828,T.Y. Tsai,$2.2 B,-,finance,Taiwan
+#829,Yasumitsu Shigeta,$2.2 B,49,mobile telecom,Japan
+#830,Regina de Camargo Pires Oliveira Dias,$2.2 B,60,construction,Brazil
+#831,John Pritzker,$2.2 B,61,"hotels, investments",United States
+#832,Peter Thiel,$2.2 B,46,Facebook,United States
+#833,Bulat Utemuratov,$2.1 B,56,"mining, banking, hotels",Kazakhstan
+#834,Alvaro Saieh Bendeck,$2.1 B,64,banking,Chile
+#835,Don Hankey,$2.1 B,71,auto loans,United States
+#836,Michael & Rainer Schmidt-Ruthenbeck,$2.1 B,-,retail,Germany
+#837,Baba Kalyani,$2.1 B,65,engineering,India
+#838,Wei Ing-Chou,$2.1 B,61,"food, beverages",Taiwan
+#839,William Fung,$2.1 B,65,sourcing,Hong Kong
+#840,Patrice Motsepe,$2.1 B,52,mining,South Africa
+#841,Alexander Mamut,$2.1 B,54,investments,Russia
+#842,Tor Peterson,$2.1 B,50,commodities,United States
+#843,Dan Gertler,$2.1 B,40,mining,Israel
+#844,Alain Bouchard,$2.1 B,64,retail,Canada
+#845,Brad Kelley,$2.1 B,57,tobacco,United States
+#846,Howard Schultz,$2.1 B,61,Starbucks,United States
+#847,Han Chang-Woo & family,$2.1 B,83,gaming,Japan
+#848,John de Mol,$2.1 B,59,TV,Netherlands
+#849,Richard Li,$2.1 B,47,telecoms,Hong Kong
+#850,Igor Makarov,$2.1 B,52,gas,Russia
+#851,Johnelle Hunt,$2.1 B,82,trucking,United States
+#852,Jim Breyer,$2.1 B,53,venture capital,United States
+#853,Huang Wei,$2.1 B,55,real estate,China
+#854,Wei Yin-Chun,$2.1 B,57,"food, beverages",Taiwan
+#855,Stephen Mandel Jr,$2.1 B,58,hedge funds,United States
+#856,Wei Ying-Chiao,$2.1 B,59,"food, beverages",Taiwan
+#857,Lee Jay-Hyun,$2.1 B,54,food products/entertainment,South Korea
+#858,Wei Yin-Heng,$2.1 B,55,"food, beverages",Taiwan
+#859,Gordon Getty,$2.1 B,80,Getty Oil,United States
+#860,Tony Tan Caktiong & family,$2.1 B,61,fast food,Philippines
+#861,James France,$2.1 B,69,"Nascar, racing",United States
+#862,Gerald Ford,$2.1 B,70,banking,United States
+#863,Mary & Douglas Perkins,$2.1 B,-,retail,United Kingdom
+#864,Charles Bronfman,$2.1 B,83,liquor,Canada
+#865,Shin Chang-Jae,$2.1 B,60,insurance,South Korea
+#866,Wang Wenxue,$2.1 B,47,real estate,China
+#867,Vivek Chaand Sehgal,$2.1 B,58,auto parts,Australia
+#868,Fayez Sarofim,$2.1 B,85,money management,United States
+#869,Antonio Luiz Seabra,$2.1 B,71,cosmetics,Brazil
+#870,Ron Baron,$2.1 B,71,money management,United States
+#871,Sun Piaoyang,$2.1 B,56,pharmaceuticals,China
+#872,Suna Kirac,$2.1 B,73,diversified,Turkey
+#873,Fiona Geminder,$2.1 B,49,packaging,Australia
+#874,Alec Gores,$2.1 B,61,private equity,United States
+#875,Noam Gottesman,$2.1 B,53,hedge funds,United States
+#876,Douglas Leone,$2.1 B,57,venture capital,United States
+#877,Madeleine Olsson Ericksson,$2.1 B,69,diversified,Sweden
+#878,Stefan Olsson,$2.1 B,65,diversified,Sweden
+#879,C. Dean Metropoulos,$2.1 B,68,investments,United States
+#880,Esther Grether & family,$2.1 B,78,"art collection, Swatch",Switzerland
+#881,George Argyros & family,$2.1 B,77,"real estate, investments",United States
+#882,Nevaldo Rocha & family,$2.1 B,84,retail,Brazil
+#883,Lam Kong,$2.1 B,50,pharmaceuticals,China
+#884,Filiz Sahenk,$2.1 B,47,"bank, media",Turkey
+#885,Robert Pera,$2.1 B,36,technology,United States
+#886,Julio Ponce,$2.1 B,68,fertilizers,Chile
+#887,Stanley Hubbard,$2.1 B,81,DirecTV,United States
+#888,Hans Melchers,$2.1 B,76,"chemicals, investments",Netherlands
+#889,David Hains,$2.1 B,83,finance,Australia
+#890,Bennett Dorrance,$2.1 B,68,Campbell Soup,United States
+#891,David Gottesman,$2 B,88,investments,United States
+#892,Helena Revoredo,$2 B,67,insurance,Spain
+#893,Mario Moretti Polegato,$2 B,62,shoes,Italy
+#894,Lawrence Ho,$2 B,37,casinos,Hong Kong
+#895,Drayton McLane Jr,$2 B,78,"Wal-Mart, logistics",United States
+#896,Chandru Raheja,$2 B,74,real estate,India
+#897,Carlo Fidani,$2 B,59,real estate,Canada
+#898,Li Shufu,$2 B,51,automobiles,China
+#899,Martin Naughton,$2 B,75,heating equipment,Ireland
+#900,Mikhail Balakin,$2 B,53,construction,Russia
+#901,Venugopal Dhoot,$2 B,63,electronics,India
+#902,Alexander Knaster,$2 B,55,"oil, telecom, banking",United States
+#903,Xue Xiangdong & family,$2 B,55,software,China
+#904,Shen Guojun,$2 B,52,retail,China
+#905,Meg Whitman,$2 B,58,Ebay,United States
+#906,Bachtiar Karim,$2 B,57,manufacturing,Indonesia
+#907,Forrest Preston,$2 B,81,health care,United States
+#908,S. Daniel Abraham,$2 B,90,Slim-Fast,United States
+#909,Sid Bass,$2 B,71,"oil, investments",United States
+#910,Thomas Lee,$2 B,70,leveraged buyouts,United States
+#911,Florentino Perez,$2 B,67,construction,Spain
+#912,N. Murray Edwards,$2 B,54,oil & gas,Canada
+#913,Ingeburg Herz,$2 B,92,coffee,Germany
+#914,Catherine Lozick,$2 B,69,Manufacturing,United States
+#915,Vyacheslav Kantor,$2 B,61,"fertilizer, real estate",Russia
+#916,Sylvia Stroher,$2 B,59,cosmetics,Germany
+#917,Angela Leong,$2 B,53,casinos,Hong Kong
+#918,Robert Fisher,$2 B,61,Gap,United States
+#919,Sulaiman Al Rajhi & family,$2 B,94,banking,Saudi Arabia
+#920,Chanchai Ruayrungruang,$2 B,60,beverages,China
+#921,Roustam Tariko,$2 B,52,banking,Russia
+#922,Murali Divi,$2 B,63,pharmaceuticals,India
+#923,Dinara Kulibaeva,$2 B,47,banking,Kazakhstan
+#924,Timur Kulibaev,$2 B,48,banking,Kazakhstan
+#925,Pat Stryker,$2 B,58,medical equipment,United States
+#926,Or Wai Sheun,$2 B,63,real estate,Hong Kong
+#927,Francisco Jose Riberas Mera,$2 B,50,steel,Spain
+#928,Juan Maria Riberas Mera,$2 B,-,steel,Spain
+#929,Wang Changtian,$2 B,49,entertainment,China
+#930,William Fisher,$2 B,57,Gap,United States
+#931,Oon Kuin Lim,$2 B,70,oil trading,Singapore
+#932,Belmiro de Azevedo,$2 B,76,retail,Portugal
+#933,Theodore Rachmat,$2 B,70,diversified,Indonesia
+#934,Mark Coombs,$1.9 B,53,finance,United Kingdom
+#935,Bruce Karsh,$1.9 B,58,private equity,United States
+#936,Dean White,$1.9 B,91,"billboards, hotels",United States
+#937,Jerry Yang,$1.9 B,45,Yahoo,United States
+#938,Cai Kui,$1.9 B,51,real estate,China
+#939,Howard Marks,$1.9 B,68,private equity,United States
+#940,Glenn Dubin,$1.9 B,63,hedge funds,United States
+#941,Thomas Bruch,$1.9 B,64,food retailing,Germany
+#942,Matt & Dan Walsh,$1.9 B,25,construction,United States
+#943,Murdaya Poo,$1.9 B,73,diversified,Indonesia
+#944,Carlos Rodriguez-Pastor,$1.9 B,55,finance,Peru
+#945,Billy Joe (Red) McCombs,$1.9 B,86,"real estate, oil, cars",United States
+#946,Koo Bon-Moo,$1.9 B,69,electronics/chemicals/household products,South Korea
+#947,Christopher Cline,$1.9 B,56,coal,United States
+#948,Alicia Koplowitz,$1.9 B,60,"construction, investments",Spain
+#949,Henadiy Boholyubov,$1.9 B,52,"banking, investments",Ukraine
+#950,Ajay Piramal,$1.9 B,59,pharmaceuticals,India
+#951,Rishad Naoroji,$1.9 B,63,consumer goods,India
+#952,Lev Kvetnoi,$1.9 B,49,"cement, airport",Russia
+#953,Shin Dong-Bin,$1.9 B,59,retailing,South Korea
+#954,Gil Shwed,$1.9 B,47,software,Israel
+#955,Heloise Waislitz,$1.9 B,52,packaging,Australia
+#956,Erwin Franz Mueller,$1.9 B,82,drug stores,Germany
+#957,Ennio Doris & family,$1.9 B,74,insurance,Italy
+#958,Guy Laliberte,$1.9 B,54,Cirque du Soleil,Canada
+#959,Stewart Rahr,$1.9 B,68,drug distribution,United States
+#960,Bob Parsons,$1.9 B,63,web hosting,United States
+#961,Thongma Vijitpongpun,$1.9 B,56,real estate,Thailand
+#962,Joe Mansueto,$1.9 B,58,investment research,United States
+#963,Eduardo Eurnekian,$1.9 B,81,"airports, investments",Argentina
+#964,H. Ross Perot Jr,$1.9 B,55,"computer services, real estate",United States
+#965,Nadhmi Auchi,$1.9 B,77,real estate,United Kingdom
+#966,Norman Braman,$1.9 B,82,"art, car dealerships",United States
+#967,Mohamed Al Fayed,$1.9 B,85,"retail, investments",Egypt
+#968,Feng Hailiang,$1.9 B,54,"copper processing, real estate",China
+#969,Lirio Parisotto,$1.9 B,60,investments,Brazil
+#970,Chip Wilson,$1.9 B,57,Lululemon,Canada
+#971,Fang Wei,$1.9 B,41,manufacturing,China
+#972,John Farber,$1.9 B,89,chemicals,United States
+#973,Chase Coleman III,$1.9 B,39,hedge fund,United States
+#974,Tiong Hiew King,$1.9 B,79,timber/media,Malaysia
+#975,Richard Elman,$1.9 B,74,commodities,United Kingdom
+#976,Andrei Kozitsyn,$1.9 B,54,metals,Russia
+#977,Craig McCaw,$1.9 B,65,telecom,United States
+#978,Yuri Milner,$1.9 B,52,Facebook,Russia
+#979,Michael Klein,$1.9 B,63,retail,Brazil
+#980,Kavitark Ram Shriram,$1.9 B,57,"venture capital, Google",United States
+#981,Lina Maria Aguiar,$1.9 B,76,banking inheritance,Brazil
+#982,Dermot Desmond,$1.9 B,64,finance,Ireland
+#983,Paul Singer,$1.9 B,69,hedge funds,United States
+#984,Alex Beard,$1.9 B,47,Glencore International,United Kingdom
+#985,Sam Goi,$1.8 B,65,frozen foods,Singapore
+#986,Linda Pritzker,$1.8 B,60,"hotels, investments",United States
+#987,Ronald Wanek,$1.8 B,73,furniture,United States
+#988,Jia Yueting,$1.8 B,41,entertainment,China
+#989,Ahmet Nazif Zorlu,$1.8 B,70,diversified,Turkey
+#990,Reinfried Pohl,$1.8 B,86,mutual funds,Germany
+#991,Ian Wood & family,$1.8 B,72,energy services,United Kingdom
+#992,Ana Maria Marcondes Penido Sant'Anna,$1.8 B,58,toll roads,Brazil
+#993,Jaime Botin,$1.8 B,78,banking,Spain
+#994,Georg von Opel,$1.8 B,48,real estate/investments,Germany
+#995,Scott Cook,$1.8 B,62,software,United States
+#996,Michal Solowow,$1.8 B,52,investments,Poland
+#997,Yasseen Mansour,$1.8 B,53,diversified,Egypt
+#998,Susan Hirt Hagen & family,$1.8 B,79,insurance,United States
+#999,Marc Lasry,$1.8 B,54,hedge funds,United States
+#1000,Sandro Veronesi,$1.8 B,54,Calzedonia,Italy
+#1001,Mitchell Goldhar,$1.8 B,53,real estate,Canada
+#1002,Alexander Machkevich,$1.8 B,60,"mining, metals",Israel
+#1003,Marc Ladreit de Lacharriere,$1.8 B,73,finance,France
+#1004,Juan-Miguel Villar Mir,$1.8 B,83,construction,Spain
+#1005,Chen Jinxia,$1.8 B,46,investments,China
+#1006,Jimmy Haslam,$1.8 B,60,retail,United States
+#1007,Rakesh Jhunjhunwala,$1.8 B,54,Investments,India
+#1008,Robert Coyiuto Jr,$1.8 B,61,power,Philippines
+#1009,Manuel Lao Hernandez,$1.8 B,70,gambling,Spain
+#1010,Nicolas Puech,$1.8 B,71,Hermes,France
+#1011,John Brown,$1.8 B,80,medical equipment,United States
+#1012,David Einhorn,$1.8 B,45,hedge funds,United States
+#1013,N.R. Narayana Murthy & family,$1.8 B,68,software services,India
+#1014,Alijan Ibragimov,$1.8 B,60,"mining, metals",Kazakhstan
+#1015,Patokh Chodiev,$1.8 B,61,"mining, metals",Belgium
+#1016,Kenneth Feld & family,$1.8 B,65,"circus, live entertainment",United States
+#1017,Michael Hintze,$1.8 B,60,investment,Australia
+#1018,Rubens Ometto Silveira Mello,$1.8 B,64,"sugar, ethanol",Brazil
+#1019,Martin Haefner,$1.8 B,60,"technology, investments",Switzerland
+#1020,Lee Joong-Keun,$1.8 B,73,construction,South Korea
+#1021,Daniel Harrison III,$1.8 B,66,oil and gas,United States
+#1022,Alexander Dzhaparidze,$1.8 B,59,oil services,Russia
+#1023,Roberto Hernandez Ramirez,$1.8 B,72,banking,Mexico
+#1024,Gerald Schwartz,$1.8 B,72,finance,Canada
+#1025,Nelson Peltz,$1.8 B,72,investments,United States
+#1026,Zhang Li,$1.8 B,61,real estate,China
+#1027,Jennifer Pritzker,$1.8 B,63,"hotels, investments",United States
+#1028,Liang Yunchao,$1.8 B,45,nutrition supplements,China
+#1029,Sunny Varkey,$1.8 B,57,education,India
+#1030,Benjamin de Rothschild,$1.8 B,51,banking,Switzerland
+#1031,Xiong Xuqiang & family,$1.8 B,58,real estate,Hong Kong
+#1032,Caprotti Bernardo,$1.8 B,89,grocery stores,Italy
+#1033,Irwin Jacobs,$1.8 B,80,semiconductors,United States
+#1034,Igor Altushkin,$1.8 B,44,metals,Russia
+#1035,Miloud Chaabi,$1.8 B,85,diversified,Morocco
+#1036,Wu Yiling & family,$1.8 B,64,pharmaceuticals,China
+#1037,Jon Stryker,$1.8 B,56,medical equipment,United States
+#1038,Vincent Viola,$1.8 B,58,electronic trading,United States
+#1039,Liao Long-Shing,$1.8 B,-,petrochemicals,Taiwan
+#1040,Suhon Lin,$1.8 B,86,petrochemicals,Taiwan
+#1041,Tseng Shin-Yi,$1.8 B,86,petrochemicals,Taiwan
+#1042,Jonathan Nelson,$1.8 B,58,private equity,United States
+#1043,Jayme Garfinkel & family,$1.8 B,67,insurance,Brazil
+#1044,Cai Dongqing,$1.8 B,45,animation,China
+#1045,Zhang Zhirong,$1.8 B,45,shipbuilding,Hong Kong
+#1046,David Nahmad,$1.8 B,67,art,Monaco
+#1047,Mark Walter,$1.8 B,53,finance,United States
+#1048,Huang Zhenda & family,$1.7 B,67,construction,China
+#1049,Stanley Perron,$1.7 B,91,"property, retail",Australia
+#1050,Andrei Klyamko,$1.7 B,53,steel,Russia
+#1051,James Irsay,$1.7 B,55,Indianapolis Colts,United States
+#1052,Karl Scheufele III & family,$1.7 B,75,Chopard,Germany
+#1053,Yang Kai,$1.7 B,57,dairy products,China
+#1054,Peter Gilgan,$1.7 B,63,homebuilding,Canada
+#1055,Dan Snyder,$1.7 B,49,Washington Redskins,United States
+#1056,Li Sze Lim,$1.7 B,57,real estate,Hong Kong
+#1057,David Walentas,$1.7 B,75,real estate,United States
+#1058,Thomas Secunda,$1.7 B,60,Bloomberg,United States
+#1059,Aras Agalarov,$1.7 B,58,real estate,Russia
+#1060,Tahir,$1.7 B,62,diversified,Indonesia
+#1061,Gary Burrell,$1.7 B,77,navigation equipment,United States
+#1062,Wu Guangming & family,$1.7 B,52,medical equipment,China
+#1063,Hans-Werner Hector,$1.7 B,74,SAP,Germany
+#1064,Marie-Jeanne Meyer,$1.7 B,72,commodities,France
+#1065,Monique Louis-Dreyfus,$1.7 B,74,commodities,France
+#1066,Stephen Saad,$1.7 B,50,pharmaceuticals,South Africa
+#1067,Akio Nitori,$1.7 B,70,retail,Japan
+#1068,Leszek Czarnecki,$1.7 B,52,finance,Poland
+#1069,Larry Robbins,$1.7 B,44,hedge funds,United States
+#1070,Ana Maria Brescia Cafferata,$1.7 B,90,"mining, banking",Peru
+#1071,Liang Xinjun,$1.7 B,46,diversified,China
+#1072,Jiang Zhaobai,$1.7 B,51,real estate,China
+#1073,Vadim Novinsky,$1.7 B,51,steel,Ukraine
+#1074,Stephen Lansdown,$1.7 B,62,financial services,Guernsey
+#1075,Joe Jamail Jr,$1.7 B,88,lawsuits,United States
+#1076,Shin Dong-Joo,$1.7 B,60,retailing,South Korea
+#1077,Wang Jing,$1.7 B,41,telecommunications,China
+#1078,Alexandre Soares dos Santos & family,$1.7 B,80,retail,Portugal
+#1079,Zhou Chengjian,$1.7 B,49,retail,China
+#1080,William Ackman,$1.7 B,48,hedge funds,United States
+#1081,Ranjan Pai,$1.7 B,41,education,India
+#1082,Ronald Southern,$1.7 B,84,"structures, utilities",Canada
+#1083,Manuel Moroun & family,$1.7 B,87,transportation,United States
+#1084,Vincent Lo,$1.7 B,65,real estate,Hong Kong
+#1085,Peter Peterson,$1.7 B,88,investments,United States
+#1086,Jim Justice II,$1.7 B,63,coal,United States
+#1087,Huang Li,$1.7 B,51,electric equipment,China
+#1088,Juan Carlos Escotet,$1.7 B,55,banking,Venezuela
+#1089,Vinod Khosla,$1.7 B,59,venture capital,United States
+#1090,Vladimir Kim,$1.7 B,53,mining,Kazakhstan
+#1091,Julio Bozano,$1.7 B,78,banking,Brazil
+#1092,William Erbey,$1.7 B,65,finance,United States
+#1093,Jon Yarbrough,$1.7 B,57,video games,United States
+#1094,Lin Xiucheng & family,$1.7 B,58,electronics,China
+#1095,Kim Jung-Ju,$1.7 B,46,online games,South Korea
+#1096,Alexei Semin,$1.7 B,46,real estate,Russia
+#1097,Ashwin Dani,$1.7 B,71,paints,India
+#1098,Thaksin Shinawatra & family,$1.6 B,65,investments,Thailand
+#1099,Ihor Kolomoyskyy,$1.6 B,51,"banking, investments",Ukraine
+#1100,Mario Gabelli,$1.6 B,72,money management,United States
+#1101,Hamilton James,$1.6 B,63,investments,United States
+#1102,Lutz Mario Helmig,$1.6 B,68,Medical facilities,Germany
+#1103,Li Shuirong,$1.6 B,58,petrochemicals,China
+#1104,Ravi Jaipuria,$1.6 B,59,soft drinks,India
+#1105,Tom Benson,$1.6 B,87,New Orleans Saints,United States
+#1106,Pollyanna Chu,$1.6 B,56,financial services,Hong Kong
+#1107,Keeree Kanjanapas,$1.6 B,64,transportation,Thailand
+#1108,Jiang Wei & family,$1.6 B,52,pharmaceuticals,China
+#1109,Gavril Yushvaev,$1.6 B,57,"precious metals, real estate",Russia
+#1110,Louis Bacon,$1.6 B,56,hedge funds,United States
+#1111,Thomas Steyer,$1.6 B,57,hedge funds,United States
+#1112,Martua Sitorus,$1.6 B,54,palm oil,Indonesia
+#1113,Xu Jingren & family,$1.6 B,70,pharmaceuticals,China
+#1114,Rolf Gerling,$1.6 B,59,insurance,Germany
+#1115,Vincent Tan,$1.6 B,62,diversified,Malaysia
+#1116,Thomas Meyer,$1.6 B,-,Desigual,Switzerland
+#1117,Alan Howard,$1.6 B,51,hedge funds,United Kingdom
+#1118,Bruce Nordstrom,$1.6 B,81,department stores,United States
+#1119,Mark Stevens,$1.6 B,54,venture capital,United States
+#1120,Tsai Ming-Kai,$1.6 B,64,semiconductors,Taiwan
+#1121,Stephen Jarislowsky,$1.6 B,89,money management,Canada
+#1122,Robert Miller,$1.6 B,76,retail,United Kingdom
+#1123,Anne Gittinger,$1.6 B,78,Nordstrom department stores,United States
+#1124,Wang Junmin,$1.6 B,45,pharmaceuticals,China
+#1125,Pham Nhat Vuong,$1.6 B,46,real estate,Vietnam
+#1126,Robert Duggan,$1.6 B,70,pharmaceuticals,United States
+#1127,Alexander Frolov,$1.6 B,50,"mining, steel",Russia
+#1128,Alexandre Grendene Bartelle,$1.6 B,64,shoes,Brazil
+#1129,Barbara Carlson Gage,$1.6 B,72,"hotels, restaurants",United States
+#1130,Marilyn Carlson Nelson,$1.6 B,75,"hotels, travel",United States
+#1131,Phillip Ragon,$1.6 B,65,health IT,United States
+#1132,Wong Kwong Yu & family,$1.6 B,45,retail,China
+#1133,Denise Coates,$1.6 B,47,Online Gambling,United Kingdom
+#1134,Michel Chalhoub & family,$1.6 B,82,retail,France
+#1135,Goh Peng Ooi,$1.6 B,59,software,Malaysia
+#1136,Katsumi Tada,$1.6 B,69,real estate,Japan
+#1137,Zhang Hongwei,$1.6 B,59,diversified,China
+#1138,Bill Adderley & family,$1.6 B,66,home furnishings,United Kingdom
+#1139,Pier Luigi Loro Piana,$1.6 B,62,fashion,Italy
+#1140,Andrei Kosogov,$1.6 B,53,"oil, telecom, banking",Russia
+#1141,Wolfgang Leitner,$1.6 B,61,engineering,Austria
+#1142,Liu Baolin,$1.6 B,61,drug distribution,China
+#1143,Tian Ming,$1.6 B,60,measuring instruments,China
+#1144,Lia Maria Aguiar,$1.6 B,76,banking inheritance,Brazil
+#1145,Chao Teng-Hsiung,$1.6 B,70,real estate,Taiwan
+#1146,Gary Michelson,$1.6 B,65,medical patents,United States
+#1147,Rosa Brescia Cafferata,$1.6 B,88,"mining, fisheries",Peru
+#1148,Shao Genhuo,$1.5 B,49,agribusiness,China
+#1149,J. Joe Ricketts,$1.5 B,73,TD Ameritrade,United States
+#1150,Ma Xingtian,$1.5 B,45,pharmaceuticals,China
+#1151,Hamdi Ulukaya,$1.5 B,42,Chobani yogurt,Turkey
+#1152,Nicolas Berggruen,$1.5 B,53,investments,United States
+#1153,Roberto Angelini Rossi,$1.5 B,66,"forestry, mining",Chile
+#1154,Nikolai Tsvetkov,$1.5 B,54,banking,Russia
+#1155,Lee Myung-Hee,$1.5 B,71,retailing,South Korea
+#1156,Richard Yuengling Jr,$1.5 B,71,beer,United States
+#1157,Henry Nicholas III,$1.5 B,55,semiconductors,United States
+#1158,D. Leopoldo Del Pino y Calvo-Sotelo,$1.5 B,52,construction,Spain
+#1159,Ralph Sonnenberg & family,$1.5 B,80,blinds,Netherlands
+#1160,Jonathan Gray,$1.5 B,44,investments,United States
+#1161,Neal Patterson,$1.5 B,64,health IT,United States
+#1162,Christopher Goldsbury,$1.5 B,71,salsa,United States
+#1163,Nirav Modi,$1.5 B,43,diamond jewelry,India
+#1164,Richard Hayne,$1.5 B,67,Urban Outfitters,United States
+#1165,Herbert Allen Jr & family,$1.5 B,74,investment banking,United States
+#1166,Sun Weijie,$1.5 B,51,manufacturing,China
+#1167,Ahsen Ozokur,$1.5 B,64,food manufacturing,Turkey
+#1168,Dulce Pugliese de Godoy Bueno,$1.5 B,66,"hospitals, health care",Brazil
+#1169,Vichai Srivaddhanaprabha,$1.5 B,56,duty-free,Thailand
+#1170,Chen Jianhua & family,$1.5 B,43,chemicals,China
+#1171,Gregorio Perez Companc,$1.5 B,79,oil and gas,Argentina
+#1172,Wen Yibo & family,$1.5 B,49,manufacturing,China
+#1173,Lorenzo Fertitta,$1.5 B,45,"casinos, Ultimate Fighting Championship",United States
+#1174,Yuri Gushchin,$1.5 B,70,"candy, real estate",Russia
+#1175,Joop van den Ende,$1.5 B,72,TV,Netherlands
+#1176,Que Wenbin & family,$1.5 B,51,pharmaceuticals,China
+#1177,Miao Shouliang,$1.5 B,59,real estate,China
+#1178,Max Michel Suberville,$1.5 B,82,beverages,Mexico
+#1179,Liu Xuejing & family,$1.5 B,63,"copper, poultry",China
+#1180,Bulent Eczacibasi,$1.5 B,64,"pharmaceuticals, diversified",Turkey
+#1181,Carl Bennet,$1.5 B,63,investments,Sweden
+#1182,Achmad Hamami & family,$1.5 B,84,heavy equipment,Indonesia
+#1183,Frank Fertitta III,$1.5 B,52,"casinos, Ultimate Fighting Championship",United States
+#1184,Brian Chesky,$1.5 B,33,Airbnb,United States
+#1185,Ezra Nahmad,$1.5 B,69,art collection,Monaco
+#1186,Joe Gebbia,$1.5 B,33,Airbnb,United States
+#1187,Nathan Blecharczyk,$1.5 B,31,Airbnb,United States
+#1188,Onsi Sawiris,$1.5 B,84,"construction, telecom",Egypt
+#1189,Lee Boo-Jin,$1.5 B,44,computer services/tourism,South Korea
+#1190,Aziz Akhannouch & family,$1.5 B,53,"petroleum, diversified",Morocco
+#1191,Albert von Thurn und Taxis,$1.5 B,31,diversified,Germany
+#1192,Petter Stordalen,$1.5 B,51,hotels,Norway
+#1193,Ding Shizhong & family,$1.5 B,43,retail,China
+#1194,Jose Isaac Peres & family,$1.5 B,74,shopping malls,Brazil
+#1195,Boris Rotenberg,$1.5 B,57,"construction, pipes, chemicals",Russia
+#1196,Senapathy Gopalakrishnan & family,$1.5 B,59,software,India
+#1197,Mark Vadon,$1.5 B,43,online retail,United States
+#1198,Paul Foster,$1.5 B,57,oil refining,United States
+#1199,Charles Simonyi,$1.5 B,66,Microsoft,United States
+#1200,Nicholas Pritzker II,$1.5 B,70,"hotels, investments",United States
+#1201,Ye Cheng,$1.5 B,52,diversified,China
+#1202,Chen Bang,$1.5 B,49,hospitals,China
+#1203,Alfred Oetker,$1.5 B,47,consumer goods,Germany
+#1204,August Oetker,$1.5 B,70,consumer goods,Germany
+#1205,Bergit Douglas,$1.5 B,67,consumer goods,Germany
+#1206,Carl Ferdinand Oetker,$1.5 B,42,consumer goods,Germany
+#1207,Christian Oetker,$1.5 B,66,consumer goods,Germany
+#1208,Julia Oetker,$1.5 B,35,consumer goods,Germany
+#1209,Richard Oetker,$1.5 B,63,consumer goods,Germany
+#1210,Rosely Schweizer,$1.5 B,74,consumer goods,Germany
+#1211,Marius Nacht,$1.5 B,48,software,Israel
+#1212,Eric Lefkofsky,$1.5 B,45,Groupon,United States
+#1213,Henry Swieca,$1.5 B,57,hedge funds,United States
+#1214,Faruk Eczacibasi,$1.5 B,60,"pharmaceuticals, diversified",Turkey
+#1215,Lin Li,$1.5 B,51,investments,China
+#1216,Darwin Deason,$1.5 B,74,Xerox,United States
+#1217,Sergio Lins Andrade & family,$1.5 B,66,construction,Brazil
+#1218,Karel Komarek,$1.5 B,45,oil and gas,Czech Republic
+#1219,Luis Enrique Yarur Rey,$1.5 B,63,banking,Chile
+#1220,Nandan Nilekani & family,$1.5 B,59,software services,India
+#1221,Chen Yung-Tai,$1.5 B,78,real estate,Taiwan
+#1222,Jeff Rothschild,$1.5 B,59,Facebook,United States
+#1223,Sergei Katsiev,$1.5 B,56,"retail, wholesale",Russia
+#1224,Ayman Asfari,$1.5 B,56,oil services,United Kingdom
+#1225,Ding Shijia,$1.5 B,50,shoes,China
+#1226,Jitendra Virwani,$1.5 B,48,real estate,India
+#1227,Arturo Moreno,$1.5 B,68,billboards,United States
+#1228,Dmitry Pumpyansky,$1.5 B,50,steel pipes,Russia
+#1229,Maria Del Pino y Calvo-Sotelo,$1.5 B,58,construction,Spain
+#1230,Kenny Troutt,$1.5 B,66,telecommunications,United States
+#1231,David Booth,$1.4 B,68,mutual funds,United States
+#1232,Lei Jufang,$1.4 B,61,pharmaceuticals,China
+#1233,Domenico Dolce,$1.4 B,56,Dolce & Gabbana,Italy
+#1234,Stefano Gabbana,$1.4 B,51,Dolce & Gabbana,Italy
+#1235,Chang Yung Fa & family,$1.4 B,87,transportation,Taiwan
+#1236,Farkhad Akhmedov,$1.4 B,59,natural gas,Russia
+#1237,James Clark,$1.4 B,70,"Netscape, investments",United States
+#1238,Gao Dekang & family,$1.4 B,62,apparel,China
+#1239,Alberto Roemmers,$1.4 B,87,pharmaceuticals,Argentina
+#1240,George Joseph,$1.4 B,93,insurance,United States
+#1241,Diego Della Valle,$1.4 B,60,retail,Italy
+#1242,Jacky Xu,$1.4 B,-,apparel,St. Kitts and Nevis
+#1243,Fritz Draexlmaier,$1.4 B,-,auto parts,Germany
+#1244,Joyce Raley Teel,$1.4 B,83,supermarkets,United States
+#1245,Michael Ashcroft,$1.4 B,68,security,United Kingdom
+#1246,Gleb Fetisov,$1.4 B,48,"telecom, finance",Russia
+#1247,Todd Wagner,$1.4 B,54,online media,United States
+#1248,Zhou Hongyi,$1.4 B,44,Internet,China
+#1249,Wilma Tisch,$1.4 B,87,diversified,United States
+#1250,Jeffrey Lorberbaum,$1.4 B,59,flooring,United States
+#1251,Lachhman Das Mittal,$1.4 B,83,tractors,India
+#1252,Anatoly Lomakin,$1.4 B,62,fertilizers,Russia
+#1253,Pyotr Kondrashev,$1.4 B,65,fertilizers,Russia
+#1254,Bruce Cheng,$1.4 B,78,electronics,Taiwan
+#1255,Alfredo Egydio Arruda Villela Filho,$1.4 B,44,banking,Brazil
+#1256,Mehmet Nazif Gunal,$1.4 B,66,"tourism, construction",Turkey
+#1257,Nicholas Schorsch,$1.4 B,53,real estate,United States
+#1258,Guenther Lehmann,$1.4 B,-,drug stores,Germany
+#1259,Hu Kaijun,$1.4 B,52,healthcare,China
+#1260,Reinold Geiger,$1.4 B,67,beauty products,Austria
+#1261,Allan Wong,$1.4 B,64,electronics,Hong Kong
+#1262,Alan Gerry,$1.4 B,84,cable television,United States
+#1263,Cao Kejian,$1.4 B,52,manufacturing,China
+#1264,Fawzi Al-Kharafi,$1.4 B,-,diversified,Kuwait
+#1265,Jassim Al-Kharafi,$1.4 B,-,diversfied,Kuwait
+#1266,Mohannad Al-Kharafi,$1.4 B,-,diversified,Kuwait
+#1267,Vladimir Iorich,$1.4 B,56,"mining, steel",Germany
+#1268,Jonathan Harmsworth,$1.4 B,46,publishing,United Kingdom
+#1269,Jose Llado Fernandez-Urrutia,$1.4 B,80,construction,Spain
+#1270,Saad Hariri,$1.4 B,44,"construction, investments",Lebanon
+#1271,Nikolai Sarkisov,$1.4 B,46,"insurance, real estate",Russia
+#1272,Sergei Sarkisov,$1.4 B,55,insurance & real estate,Russia
+#1273,Roger Penske,$1.4 B,77,cars,United States
+#1274,Ciputra & family,$1.4 B,83,real estate,Indonesia
+#1275,Sun Hongbin,$1.4 B,51,real estate,United States
+#1276,Carol Jenkins Barnett,$1.4 B,58,Publix supermarkets,United States
+#1277,Michael Price,$1.4 B,62,investments,United States
+#1278,Erika Pohl-Stroher,$1.4 B,95,hair products,Germany
+#1279,Antony Ressler,$1.4 B,52,finance,United States
+#1280,Takao Yasuda,$1.4 B,65,retail,Japan
+#1281,Elisabeth Badinter & family,$1.4 B,70,advertising,France
+#1282,Ana Lucia de Mattos Barretto Villela,$1.4 B,40,banking,Brazil
+#1283,Wong Luen Hei,$1.4 B,52,pipe manufacturing,China
+#1284,Gary Magness,$1.4 B,60,"cable, investments",United States
+#1285,Charles Zegar,$1.4 B,66,Bloomberg LP,United States
+#1286,Koos Bekker,$1.4 B,61,"media, investments",South Africa
+#1287,Charlotte Colket Weber,$1.4 B,71,Campbell Soup,United States
+#1288,Wee Meng Koh,$1.4 B,51,"real estate, hotels",Singapore
+#1289,Andrei Bokarev,$1.4 B,47,"coal mining, machine building",Russia
+#1290,Haipeng Ji & family,$1.4 B,48,real estate,China
+#1291,Seth Klarman,$1.4 B,57,investments,United States
+#1292,Radovan Vitek,$1.4 B,43,real estate,Czech Republic
+#1293,Gu Wei,$1.4 B,49,manufacturing,China
+#1294,John Henry,$1.4 B,65,sports,United States
+#1295,Oleg Boyko,$1.4 B,50,"entertaiment, retail, real estate",Russia
+#1296,Chen Tianqiao,$1.4 B,41,online games,China
+#1297,Lee Seo-Hyun,$1.4 B,41,computer services/tourism,South Korea
+#1298,Farris Wilks,$1.4 B,62,natural gas,United States
+#1299,Christoph Henkel,$1.4 B,-,consumer goods,Germany
+#1300,Allan Gray,$1.4 B,76,investing,South Africa
+#1301,Kerry Stokes,$1.4 B,74,"media, mining",Australia
+#1302,Pierre Papillaud,$1.4 B,79,water,France
+#1303,Cho Tak Wong & family,$1.4 B,68,auto parts,Hong Kong
+#1304,Polys Haji-Ioannou,$1.4 B,55,EasyJet,Cyprus
+#1305,Ali Ibrahim Agaoglu,$1.4 B,60,construction,Turkey
+#1306,Asok Kumar Hiranandani,$1.4 B,59,real estate,Singapore
+#1307,Mustafa Latif Topbas,$1.4 B,70,"food manufacturing, retail",Turkey
+#1308,Dan Wilks,$1.4 B,58,natural gas,United States
+#1309,Fred Chang,$1.3 B,57,online retailing,United States
+#1310,Joao Alves de Queiroz Filho,$1.3 B,61,consumer goods,Brazil
+#1311,Mo Tianquan,$1.3 B,50,internet information provider,China
+#1312,Mehmet Sinan Tara,$1.3 B,56,construction,Turkey
+#1313,Zhu Yicai,$1.3 B,50,diversified,China
+#1314,Abdulsamad Rabiu,$1.3 B,54,"sugar, flour, cement",Nigeria
+#1315,Alan Auerbach,$1.3 B,44,biotechnology,United States
+#1316,P.N.C. Menon,$1.3 B,65,real estate,Oman
+#1317,Chen Miaolin,$1.3 B,62,hotels,China
+#1318,Alfred James Clark,$1.3 B,86,construction,United States
+#1319,John Edson,$1.3 B,82,leisure craft,United States
+#1320,James Leininger,$1.3 B,69,medical products,United States
+#1321,Horst Brandstaetter,$1.3 B,81,toys,Germany
+#1322,Park Hyeon-Joo,$1.3 B,55,asset management,South Korea
+#1323,Gabriel Escarrer,$1.3 B,79,hotels,Spain
+#1324,Thomas Sandell,$1.3 B,53,hedge funds,Sweden
+#1325,Shlomo Eliahu,$1.3 B,78,insurance,Israel
+#1326,Othman Benjelloun,$1.3 B,81,"banking, insurance",Morocco
+#1327,Francesco Gaetano Caltagirone,$1.3 B,71,"cement, diversified",Italy
+#1328,Shaul Shani,$1.3 B,59,technology,Israel
+#1329,Jorge Moll Filho,$1.3 B,69,hospitals,Brazil
+#1330,Charles Munger,$1.3 B,90,Berkshire Hathaway,United States
+#1331,Massimo Moratti,$1.3 B,69,oil,Italy
+#1332,T.S. Kalyanaraman,$1.3 B,67,jewelry,India
+#1333,Peter Unger,$1.3 B,70,auto repair,Germany
+#1334,Stewart Horejsi,$1.3 B,77,Berkshire Hathaway,United States
+#1335,Vadim Moshkovich,$1.3 B,47,"agriculture, development",Russia
+#1336,Wang Wenjing,$1.3 B,49,software,China
+#1337,Alberto Bombassei,$1.3 B,74,automotive brakes,Italy
+#1338,Richard Chilton Jr,$1.3 B,56,hedge funds,United States
+#1339,Jacques Saade & family,$1.3 B,77,shipping,France
+#1340,Ni Zhaoxing,$1.3 B,58,real estate,China
+#1341,Walter Frey,$1.3 B,71,Emil Frey Group,Switzerland
+#1342,Lily Safra,$1.3 B,76,banking,Monaco
+#1343,Yuriy Kosiuk,$1.3 B,46,agriculture,Ukraine
+#1344,Surin Upatkoon,$1.3 B,65,telecoms/lotteries/insurance,Thailand
+#1345,Frank Stronach,$1.3 B,82,auto parts,Canada
+#1346,Huo Qinghua,$1.3 B,53,coal,China
+#1347,Lee Man Tat,$1.3 B,85,food,Hong Kong
+#1348,Bassam Alghanim,$1.3 B,63,diversified,Kuwait
+#1349,Kutayba Alghanim,$1.3 B,68,diversified,Kuwait
+#1350,Hary Tanoesoedibjo,$1.3 B,49,media,Indonesia
+#1351,Roman Avdeev,$1.3 B,47,"banking, development",Russia
+#1352,Jane Lauder,$1.3 B,41,"inherited, cosmetics",United States
+#1353,Cesar Mata Pires,$1.3 B,-,construction,Brazil
+#1354,Daniel Roullier & family,$1.3 B,77,animal feed,France
+#1355,Dmitry Kamenshchik,$1.3 B,46,airport,Russia
+#1356,Peter Sperling,$1.3 B,54,education,United States
+#1357,Ke Xiping & family,$1.3 B,54,investments,China
+#1358,Edmund Ansin,$1.3 B,78,television,United States
+#1359,Eggon da Silva,$1.3 B,85,industrial machinery,Brazil
+#1360,Lilian Werninghaus,$1.3 B,79,industrial machinery,Brazil
+#1361,Werner Voigt,$1.3 B,84,industrial machinery,Brazil
+#1362,Chung Mong-Jin,$1.3 B,54,building materials,South Korea
+#1363,Edgar de Picciotto,$1.3 B,85,private banking,Switzerland
+#1364,Zelimkhan Mutsoev,$1.3 B,54,"fertilizers, real estate",Russia
+#1365,Richard Chang,$1.3 B,67,"real estate, electronics",Taiwan
+#1366,Alberto Cortina,$1.3 B,68,investments,Spain
+#1367,Ronald Joyce,$1.3 B,83,restaurants,Canada
+#1368,Jose Ermirio de Moraes Neto,$1.3 B,62,diversified,Brazil
+#1369,Jose Roberto Ermirio de Moraes,$1.3 B,56,diversified,Brazil
+#1370,Neide Helena de Moraes,$1.3 B,59,diversified,Brazil
+#1371,Yan Zhi,$1.3 B,41,real estate,China
+#1372,William Macaulay,$1.3 B,69,energy investments,United States
+#1373,Koo Bon-Neung,$1.3 B,65,electronics,South Korea
+#1374,Vladimir Gruzdev,$1.3 B,47,investments,Russia
+#1375,Mofatraj Munot,$1.3 B,70,real estate,India
+#1376,John Tyson,$1.3 B,61,food processing,United States
+#1377,Patricia Angelini Rossi,$1.3 B,60,"forestry, mining",Chile
+#1378,Michael Krasny,$1.3 B,61,retail,United States
+#1379,Steve Case,$1.3 B,56,AOL,United States
+#1380,Paolo Bulgari,$1.3 B,77,luxury goods,Italy
+#1381,Alexei Bogachev,$1.3 B,44,"retail, banking",Russia
+#1382,Ron Sim,$1.3 B,55,retail,Singapore
+#1383,Gabe Newell,$1.3 B,51,videogames,United States
+#1384,Wang Laichun,$1.3 B,47,electronics components,China
+#1385,Wang Laisheng,$1.3 B,49,electronics components,China
+#1386,Zhang Guiping & family,$1.3 B,63,real estate,China
+#1387,David Harding,$1.3 B,53,finance,United Kingdom
+#1388,Lee Hwa-Kyung,$1.3 B,58,snack foods,South Korea
+#1389,Benedicta Chamberlain,$1.3 B,70,alcohol,United Kingdom
+#1390,Sidney Kimmel,$1.3 B,86,retail,United States
+#1391,Vito Rodriguez Rodriguez,$1.3 B,75,processed milk,Peru
+#1392,Zhong Sheng Jian,$1.2 B,56,real estate,Singapore
+#1393,Konstantin Grigorishin,$1.2 B,48,power engineering,Russia
+#1394,Lev Leviev,$1.2 B,58,diamonds,Israel
+#1395,Yusaku Maezawa,$1.2 B,38,online retail,Japan
+#1396,Solomon Lew,$1.2 B,69,retail,Australia
+#1397,Wen Jianping,$1.2 B,52,sewage treatment,China
+#1398,Mori Arkin,$1.2 B,62,pharmaceuticals,Israel
+#1399,Andrea Della Valle,$1.2 B,49,shoes,Italy
+#1400,Nicola Bulgari,$1.2 B,73,luxury goods,Italy
+#1401,Alexander Spanos & family,$1.2 B,91,real estate,United States
+#1402,Brian Roberts,$1.2 B,55,Comcast,United States
+#1403,Edward Stack,$1.2 B,59,Dick's Sporting Goods,United States
+#1404,Yoshikazu Tanaka,$1.2 B,37,social networking,Japan
+#1405,Charles Brandes,$1.2 B,71,money management,United States
+#1406,Gerry Harvey,$1.2 B,75,retail,Australia
+#1407,Hoang Kieu,$1.2 B,70,pharmaceuticals,United States
+#1408,Yuri Kovalchuk,$1.2 B,63,"banking, insurance, media",Russia
+#1409,Kagemasa Kozuki,$1.2 B,73,gaming,Japan
+#1410,Mehmet Emin Karamehmet,$1.2 B,70,"telecom, diversified",Turkey
+#1411,Leo Chen,$1.2 B,31,e-commerce,China
+#1412,Gian Marco Moratti,$1.2 B,77,oil,Italy
+#1413,Drew Houston,$1.2 B,31,Dropbox,United States
+#1414,Robert Ell,$1.2 B,69,property,Australia
+#1415,Albert Blokker,$1.2 B,68,retail,Belgium
+#1416,Els Blokker,$1.2 B,66,retail,Netherlands
+#1417,Petro Poroshenko,$1.2 B,49,confectionery,Ukraine
+#1418,Aerin Lauder Zinterhofer,$1.2 B,44,"inherited, cosmetics",United States
+#1419,Andrei Molchanov,$1.2 B,43,construction materials,Russia
+#1420,Edwin Soeryadjaya,$1.2 B,65,"coal, investments",Indonesia
+#1421,Jonathan Oringer,$1.2 B,40,stock photos,United States
+#1422,Rubens Menin Teixeira de Souza,$1.2 B,58,home building,Brazil
+#1423,Carlos Francisco Ribeiro Jereissati & family,$1.2 B,68,shopping malls,Brazil
+#1424,Kazuo Okada & family,$1.2 B,72,casinos,Japan
+#1425,Wei Shaojun,$1.2 B,51,real estate,China
+#1426,Harjo Sutanto,$1.2 B,88,consumer goods,Indonesia
+#1427,Mohammed Al Barwani,$1.2 B,62,oil,Oman
+#1428,Hong Ra-Hee,$1.2 B,69,Samsung,South Korea
+#1429,He Qiaonv & family,$1.2 B,48,landscape architecture,China
+#1430,Marcel Adams,$1.2 B,94,real estate,Canada
+#1431,Elie Horn,$1.2 B,70,real estate,Brazil
+#1432,Ahmet Calik,$1.2 B,56,"energy, media, banking",Turkey
+#1433,Fahd Hariri,$1.2 B,33,"construction, investments",Lebanon
+#1434,Hubert d'Ornano,$1.2 B,88,cosmetics,France
+#1435,Maria Ines de Lafuente Lacroze & family,$1.2 B,70,cement firm inheritance,Argentina
+#1436,Thomas Bailey,$1.2 B,77,finance,United States
+#1437,Ayman Hariri,$1.2 B,36,"construction, investments",Lebanon
+#1438,Alain Taravella,$1.2 B,66,real estate,France
+#1439,Nikolai Maximov & family,$1.2 B,57,investments,Russia
+#1440,Lin Ming-Hsiung,$1.2 B,64,retail,Taiwan
+#1441,Guilherme Peirao Leal,$1.2 B,64,cosmetics,Brazil
+#1442,Edir Macedo & family,$1.2 B,69,broadcasting,Brazil
+#1443,Gordon Wu,$1.2 B,79,real estate,Hong Kong
+#1444,Daniel Hirschfeld,$1.2 B,-,-,United States
+#1445,Lee Hae-Jin,$1.2 B,47,Internet portal,South Korea
+#1446,Binod Chaudhary & family,$1.2 B,59,diversified,Nepal
+#1447,Lang Walker,$1.2 B,69,property,Australia
+#1448,Len Ainsworth,$1.2 B,91,betting machines,Australia
+#1449,Alexander Rovt,$1.2 B,62,"fertilizer, real estate",United States
+#1450,Allan Slaight,$1.2 B,81,broadcasting,Canada
+#1451,Aloke Lohia,$1.2 B,55,petrochemicals,Thailand
+#1452,Christopher Burch,$1.2 B,61,fashion,United States
+#1453,Yoshiko Mori,$1.2 B,74,"inherited, Mori Building",Japan
+#1454,Danny Tan Chee Sing,$1.2 B,59,real estate,Malaysia
+#1455,Aneel Bhusri,$1.2 B,48,business software,United States
+#1456,Nan Cunhui,$1.2 B,51,electric equipment,China
+#1457,Mubariz Gurbanoglu,$1.2 B,46,shipping,Turkey
+#1458,Suat Gunsel,$1.2 B,62,"real estate, education",Cyprus
+#1459,Arkady Volozh,$1.2 B,50,internet,Russia
+#1460,Anton Kathrein Jr,$1.2 B,30,antennas,Germany
+#1461,Anatoly Sedykh,$1.2 B,49,steel pipes,Russia
+#1462,Donald Hall,$1.2 B,86,Hallmark,United States
+#1463,Rufino Vigil Gonzalez,$1.2 B,66,steel,Mexico
+#1464,Soichiro Fukutake,$1.2 B,68,education,Japan
+#1465,Chu Mang Yee & family,$1.2 B,54,real estate,China
+#1466,Shen Wenrong,$1.2 B,68,steel,China
+#1467,Horst Julius Pudwill,$1.2 B,70,manufacturing,Germany
+#1468,B.R. Shetty,$1.1 B,72,healthcare,India
+#1469,Deniz Sahenk,$1.1 B,69,"bank, media",Turkey
+#1470,Douglas Hsu & family,$1.1 B,72,diversified,Taiwan
+#1471,Juan Fernando Belmont Anderson,$1.1 B,70,cosmetics,Peru
+#1472,Andrei Rappoport,$1.1 B,51,investments,Russia
+#1473,Jorge Rodriguez Rodriguez,$1.1 B,68,processed milk,Peru
+#1474,Evgeny (Eugene) Shvidler,$1.1 B,50,"oil & gas, investments",United States
+#1475,Ray Irani,$1.1 B,79,Oil,United States
+#1476,Alan Rydge,$1.1 B,62,entertainment,Australia
+#1477,K. Rai Sahi,$1.1 B,68,real estate,Canada
+#1478,Chung Yong-Jin,$1.1 B,46,retailing,South Korea
+#1479,Claude Dauphin,$1.1 B,63,commodities,France
+#1480,Andrei Kuzyaev,$1.1 B,49,"telecom, oil service, real estate",Russia
+#1481,Rudolf Maag,$1.1 B,68,medical devices,Switzerland
+#1482,Jim Thompson,$1.1 B,74,logistics,United States
+#1483,Ajay Kalsi,$1.1 B,53,oil and gas,India
+#1484,Kenneth Tuchman,$1.1 B,54,outsourcing,United States
+#1485,Jon Huntsman,$1.1 B,77,chemicals,United States
+#1486,Daisy Igel,$1.1 B,87,"gas, petrochemicals",Brazil
+#1487,Nobutada Saji,$1.1 B,68,beverages,Japan
+#1488,Autry Stephens,$1.1 B,75,oil,United States
+#1489,Mike Cannon-Brookes,$1.1 B,34,business software,Australia
+#1490,O. Francis Biondi,$1.1 B,50,hedge fund,United States
+#1491,Scott Farquhar,$1.1 B,34,business software,Australia
+#1492,Yang Keng,$1.1 B,53,real estate,China
+#1493,Mokhzani Mahathir,$1.1 B,53,oil & gas services,Malaysia
+#1494,John Morgridge,$1.1 B,81,Cisco,United States
+#1495,Jose Mendes Nogueira & family,$1.1 B,86,iron ore mining,Brazil
+#1496,Leonid Simanovsky,$1.1 B,65,investments,Russia
+#1497,Leonard Schleifer,$1.1 B,62,pharmaceuticals,United States
+#1498,Huang Wen Tsai,$1.1 B,61,real estate,China
+#1499,Liu Gexin,$1.1 B,63,pharmaceuticals,China
+#1500,Miriam Blocher,$1.1 B,39,chemicals,Switzerland
+#1501,Timothy Boyle,$1.1 B,65,Columbia Sportswear,United States
+#1502,Chong Ngen Choo,$1.1 B,62,hotels,Singapore
+#1503,Christopher Hohn,$1.1 B,47,Hedge fund,United Kingdom
+#1504,K. Dinesh & family,$1.1 B,60,software services,India
+#1505,Anne Beaufour,$1.1 B,51,pharmaceuticals,France
+#1506,Henri Beaufour,$1.1 B,49,pharmaceuticals,France
+#1507,Aydin Dogan,$1.1 B,78,media,Turkey
+#1508,Li Denghai,$1.1 B,65,agribusiness,China
+#1509,Leon Charney,$1.1 B,73,real estate,United States
+#1510,Chang Pyung-Soon,$1.1 B,63,educational products & services,South Korea
+#1511,Remo Ruffini,$1.1 B,53,winter jackets,Italy
+#1512,Sudhir Ruparelia,$1.1 B,58,real estate,Uganda
+#1513,Brian Higgins,$1.1 B,49,Hedge fund,United States
+#1514,Clement Fayat & family,$1.1 B,82,construction,France
+#1515,Beda Diethelm,$1.1 B,73,hearing aids,Switzerland
+#1516,Cho Yang-Rai,$1.1 B,76,tire manufacturing,South Korea
+#1517,Dmitry Mazepin,$1.1 B,46,chemicals,Russia
+#1518,Zadik Bino,$1.1 B,70,"banking, oil",Israel
+#1519,Mohammed Ibrahim,$1.1 B,68,communications,United Kingdom
+#1520,Sergei Kislov,$1.1 B,53,"agriculture, refinery",Russia
+#1521,Huang Shaowu,$1.1 B,43,retail,China
+#1522,An Kang,$1.1 B,65,pharmaceuticals,China
+#1523,Alfred Mann,$1.1 B,88,medical devices,United States
+#1524,Thomas Straumann,$1.1 B,51,dental implants,Switzerland
+#1525,Huang Bingwen & family,$1.1 B,60,printing,Australia
+#1526,Tu Jianhua,$1.1 B,51,"motorcycles, real estate",China
+#1527,Wang Jianfeng & family,$1.1 B,44,auto parts,China
+#1528,Airat Shaimiev,$1.1 B,52,"refinery, chemicals",Russia
+#1529,Low Tuck Kwong,$1.1 B,66,coal,Indonesia
+#1530,Ioan Niculae,$1 B,60,agriculture,Romania
+#1531,Vladimir Scherbakov,$1 B,64,autos,Russia
+#1532,Zdenek Bakala,$1 B,53,coal,Czech Republic
+#1533,Simonpietro Salini,$1 B,82,construction,Italy
+#1534,Anas Sefrioui,$1 B,57,real estate,Morocco
+#1535,David Sainsbury,$1 B,73,retail,United Kingdom
+#1536,Andrea Reimann-Ciardelli,$1 B,57,consumer goods,United States
+#1537,Radik Shaimiev,$1 B,49,"refinery, chemical",Russia
+#1538,Wang Kunxiao,$1 B,45,oilfield equipment,China
+#1539,Sun Pingfan & family,$1 B,44,knitting machines,China
+#1540,Wang Yong & family,$1 B,64,food sweeteners,China
+#1541,Sheryl Sandberg,$1 B,45,Facebook,United States
+#1542,Wu Chung-Yi,$1 B,55,manufacturing,Taiwan
+#1543,Ryoichi Jinnai,$1 B,88,"finance, agriculture",Japan
+#1544,Chung Mong-Joon,$1 B,62,shipbuilding/industrial machines,South Korea
+#1545,Maria Angela Aguiar Bellizia,$1 B,50,Banking,Brazil
+#1546,Chen Lip Keong,$1 B,67,casinos,Malaysia
+#1547,Gilles Martin,$1 B,50,laboratory services,France
+#1548,Mark Pincus,$1 B,48,online games,United States
+#1549,Angela Bennett,$1 B,69,mining,Australia
+#1550,Cheung Yan,$1 B,57,paper,China
+#1551,Murat Vargi,$1 B,66,telecom,Turkey
+#1552,Boris Mints,$1 B,56,real estate,Russia
+#1553,Michael Steinhardt,$1 B,73,finance,United States
+#1554,Alberto Alcocer,$1 B,71,investments,Spain
+#1555,Yu Minhong & family,$1 B,52,education,China
+#1556,Sara Blakely,$1 B,43,Spanx,United States
+#1557,Harindarpal Banga,$1 B,64,commodities,India
+#1558,Zhang Zhongneng & family,$1 B,51,aluminum,China
+#1559,Jacques Merceron-Vicat & family,$1 B,76,cement,France
+#1560,David Yakobashvili,$1 B,57,"oil, real estate",Russia
+#1561,Mikhail Abyzov,$1 B,42,"power, power engineering",Russia
+#1562,Zhang Changhong,$1 B,56,finance information service,China
+#1563,Fernando Roig,$1 B,67,supermarkets,Spain
+#1564,Henry Engelhardt,$1 B,56,insurance,United States
+#1565,Alexander Vik,$1 B,59,investments,Norway
+#1566,Morris Kahn,$1 B,84,software,Israel
+#1567,Pavel Tykac,$1 B,50,coal mine,Czech Republic
+#1568,Robert Citrone,$1 B,49,hedge fund,United States
+#1569,Ryan Kavanaugh,$1 B,39,Movies,United States
+#1570,Thomas Kaplan,$1 B,52,investments,United States
+#1571,William Moncrief Jr,$1 B,94,oil,United States
+#1572,Albert Shigaboutdinov,$999 M,59,"refinery, chemicals",Russia
+#1573,Jean Burelle,$998 M,75,automotive systems,France
+#1574,Laurent Burelle,$998 M,65,automotive systems,France
+#1575,Wong Man Li,$996 M,49,furniture,Hong Kong
+#1576,David Chow,$983 M,64,casinos,Macau
+#1577,Taizo Son,$980 M,42,gaming,Japan
+#1578,Seo Jung-Jin,$954 M,56,biotechnology,South Korea
